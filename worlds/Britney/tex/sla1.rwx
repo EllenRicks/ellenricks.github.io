@@ -1,0 +1,212 @@
+# Output from 3DSMax RenderWare File Export plug-in V1.0
+ModelBegin
+    ClumpBegin
+        # insideWall01
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 1
+                Hints NULL
+                Vertex  2.510077  10.000000 -0.040827 UV  0.999501  0.999500
+                Vertex  2.510077  6.666667 -0.040827 UV  0.999501  0.666500
+                Vertex  2.510077  3.333333 -0.040827 UV  0.999500  0.333500
+                Vertex  2.510077  0.000000 -0.040827 UV  0.999500  0.000500
+                Vertex  2.069539  10.000000 -2.373189 UV  0.591145  0.999500
+                Vertex  4.135686  6.666667 -2.815287 UV  0.260384  0.666500
+                Vertex  4.135686  3.333333 -2.815287 UV  0.260383  0.333500
+                Vertex  3.514888  0.000000 -3.790827 UV  0.000499  0.000500
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1 0.158168 0.181698
+                Color 0.192157 0.47451 0.545098
+                Diffuse 0.192157 0.47451 0.545098
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture rock3.cMP
+                
+                Triangle 6 1 5
+                Triangle 2 1 6
+                Triangle 7 2 6
+                Triangle 3 2 7
+                Triangle 8 3 7
+                Triangle 4 3 8
+                
+            ClumpEnd
+        TransformEnd
+        # insideWall02
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 2
+                Hints NULL
+                Vertex  10.010079  10.000000 -7.540830 UV  0.999500  0.999501
+                Vertex  10.010077  6.666667 -7.540826 UV  0.999500  0.666500
+                Vertex  10.010077  3.333333 -7.540826 UV  0.999500  0.333500
+                Vertex  10.010077  0.000000 -7.540826 UV  0.999500  0.000500
+                Vertex  2.069539  10.000000 -2.373189 UV  0.077904  0.999500
+                Vertex  4.135686  6.666667 -2.815287 UV  0.007141  0.666500
+                Vertex  4.135686  3.333333 -2.815287 UV  0.007141  0.333500
+                Vertex  3.514888  0.000000 -3.790827 UV  0.000500  0.000500
+                Vertex  8.211160  10.000000 -8.000000 UV  0.822567  0.999501
+                Vertex  5.284539  6.666667 -6.092591 UV  0.357935  0.666500
+                Vertex  6.880877  3.333333 -5.560478 UV  0.506641  0.333500
+                Vertex  6.260078  0.000000 -6.536017 UV  0.500000  0.000500
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1 0.158168 0.181698
+                Color 0.192157 0.47451 0.545098
+                Diffuse 0.192157 0.47451 0.545098
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture rock3.cMP
+                
+                Triangle 10 5 9
+                Triangle 6 5 10
+                Triangle 11 6 10
+                Triangle 7 6 11
+                Triangle 12 7 11
+                Triangle 8 7 12
+                Triangle 2 9 1
+                Triangle 10 9 2
+                Triangle 3 10 2
+                Triangle 11 10 3
+                Triangle 4 11 3
+                Triangle 12 11 4
+                
+            ClumpEnd
+        TransformEnd
+        # outsideWall01
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 3
+                Hints NULL
+                Vertex  0.010078  0.000000 -0.040827 UV  0.999501  0.013268
+                Vertex  0.010078  3.333333 -0.040827 UV  0.999501  0.293407
+                Vertex  0.010078  6.666667 -0.040827 UV  0.999500  0.573546
+                Vertex  0.010078  10.000000 -0.040827 UV  0.999500  0.853685
+                Vertex  1.349824  0.000000 -5.040827 UV  0.510949  0.016585
+                Vertex  0.374284  3.333333 -5.838996 UV  0.471500  0.305471
+                Vertex -1.931539  6.666667 -5.927681 UV  0.538321  0.601765
+                Vertex -0.512571  11.500000 -6.459794 UV  0.444969  0.999500
+                Vertex  5.010078  0.000000 -8.701080 UV  0.066479  0.000500
+                Vertex  4.034538  3.333333 -9.499249 UV  0.027031  0.289386
+                Vertex  1.728716  6.666667 -9.587934 UV  0.093852  0.585680
+                Vertex  3.147684  9.000000 -10.120048 UV  0.000499  0.773311
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1 0.158168 0.181698
+                Color 0.192157 0.47451 0.545098
+                Diffuse 0.192157 0.47451 0.545098
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture rock3.cMP
+                
+                Triangle 6 1 5
+                Triangle 2 1 6
+                Triangle 7 2 6
+                Triangle 3 2 7
+                Triangle 8 3 7
+                Triangle 4 3 8
+                Triangle 10 5 9
+                Triangle 6 5 10
+                Triangle 11 6 10
+                Triangle 7 6 11
+                Triangle 12 7 11
+                Triangle 8 7 12
+                
+            ClumpEnd
+        TransformEnd
+        # outsideWall02
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 4
+                Hints NULL
+                Vertex  10.010077  0.000000 -10.040826 UV  0.999500  0.000499
+                Vertex  10.010077  3.333333 -10.040826 UV  0.999500  0.333500
+                Vertex  10.010077  6.666667 -10.040826 UV  0.999500  0.666500
+                Vertex  10.010077  10.000000 -10.040826 UV  0.999500  0.999501
+                Vertex  5.010078  0.000000 -8.701080 UV  0.362369  0.000499
+                Vertex  4.034538  3.333333 -9.499249 UV  0.271814  0.342445
+                Vertex  1.728716  6.666667 -9.587934 UV  0.000500  0.681410
+                Vertex  3.147684  9.000000 -10.120048 UV  0.186152  0.915793
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1 0.158168 0.181698
+                Color 0.192157 0.47451 0.545098
+                Diffuse 0.192157 0.47451 0.545098
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture rock3.cMP
+                
+                Triangle 2 5 1
+                Triangle 6 5 2
+                Triangle 3 6 2
+                Triangle 7 6 3
+                Triangle 4 7 3
+                Triangle 8 7 4
+                
+            ClumpEnd
+        TransformEnd
+        # sky01
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 5
+                Hints NULL
+                Vertex  10.010077  10.000000 -10.040826 UV  0.999501  0.000499
+                Vertex  10.010077  10.000000 -7.540826 UV  0.999500  0.250250
+                Vertex  0.010078  10.000000 -0.040827 UV  0.000500  0.999500
+                Vertex  2.510077  10.000000 -0.040827 UV  0.250250  0.999501
+                Vertex -0.512571  11.500000 -6.459794 UV  0.134340  0.500000
+                Vertex  2.069539  10.000000 -2.373189 UV  0.350630  0.624875
+                Vertex  3.147684  9.000000 -10.120048 UV  0.500000  0.134340
+                Vertex  8.211158  10.000000 -8.000000 UV  0.624875  0.350630
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.181698  0.1 0.172547
+                Color 0.545098 0.192157 0.517647
+                Diffuse 0.545098 0.192157 0.517647
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture whitesky.cmp
+                
+                Triangle 6 3 5
+                Triangle 4 3 6
+                Triangle 8 5 7
+                Triangle 6 5 8
+                Triangle 2 7 1
+                Triangle 8 7 2
+                
+            ClumpEnd
+        TransformEnd
+        # Tube01
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 6
+                Hints NULL
+                
+                
+            ClumpEnd
+        TransformEnd
+    ClumpEnd
+ModelEnd

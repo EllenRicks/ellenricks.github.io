@@ -1,0 +1,563 @@
+# Output from 3DSMax RenderWare File Export plug-in V1.0
+ModelBegin
+    ClumpBegin
+        # Line01
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000 -1.000000  0.000000  0.000000  0.003672  0.006169  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 1
+                Hints NULL
+                Vertex  0.000459  0.000000  0.031569 UV  1.865851  12.219352
+                Vertex -0.000617  0.000000  0.023955 UV  1.770519  10.831725
+                Vertex -0.002078  0.000000  0.022953 UV  1.641182  10.649006
+                Vertex -0.002182 -0.000000 -0.021771 UV  1.631968  2.497590
+                Vertex -0.001623  0.000000 -0.022282 UV  1.998607  11.939452
+                Vertex -0.001623  0.000000 -0.024311 UV  2.000522  11.910809
+                Vertex -0.000572  0.000000 -0.025183 UV  1.999500  11.808319
+                Vertex -0.000572  0.000000 -0.030263 UV  1.999501  11.000500
+                Vertex  0.001968  0.000000 -0.030263 UV  1.966387  11.500000
+                Vertex -0.003672  0.000000 -0.034206 UV  1.500000  0.231340
+                Vertex -0.001606 -0.003577  0.031569 UV  1.682925  12.219352
+                Vertex -0.002144 -0.002645  0.023955 UV  1.635259  10.831725
+                Vertex -0.002875 -0.001381  0.022953 UV  1.570591  10.649006
+                Vertex -0.002927 -0.001290 -0.021771 UV  1.565984  2.497590
+                Vertex -0.002647 -0.001775 -0.022282 UV  1.749303  11.939452
+                Vertex -0.002647 -0.001775 -0.024311 UV  1.750261  11.910809
+                Vertex -0.002122 -0.002685 -0.025183 UV  1.749750  11.808319
+                Vertex -0.002122 -0.002685 -0.030263 UV  1.749750  11.000500
+                Vertex -0.000852 -0.004884 -0.030263 UV  1.737857  11.906098
+                Vertex -0.003672  0.000000 -0.034206 UV  1.500000  0.231340
+                Vertex -0.005737 -0.003577  0.031569 UV  1.317073  12.219352
+                Vertex -0.005199 -0.002645  0.023955 UV  1.364739  10.831725
+                Vertex -0.004469 -0.001381  0.022953 UV  1.429407  10.649006
+                Vertex -0.004417 -0.001290 -0.021771 UV  1.434016  2.497590
+                Vertex -0.004696 -0.001775 -0.022282 UV  1.250696  11.939452
+                Vertex -0.004696 -0.001775 -0.024311 UV  1.249738  11.910809
+                Vertex -0.005222 -0.002685 -0.025183 UV  1.250250  11.808319
+                Vertex -0.005222 -0.002685 -0.030263 UV  1.250250  11.000500
+                Vertex -0.006492 -0.004884 -0.030263 UV  1.262143  11.906097
+                Vertex -0.003672  0.000000 -0.034206 UV  1.500000  0.231340
+                Vertex -0.007803 -0.000000  0.031569 UV  1.134146  12.219352
+                Vertex -0.006726 -0.000000  0.023955 UV  1.229478  10.831725
+                Vertex -0.005266 -0.000000  0.022953 UV  1.358815  10.649006
+                Vertex -0.005162  0.000000 -0.021771 UV  1.368032  2.497590
+                Vertex -0.005721  0.000000 -0.022282 UV  1.001393  11.939452
+                Vertex -0.005721  0.000000 -0.024311 UV  0.999478  11.910809
+                Vertex -0.006772  0.000000 -0.025183 UV  1.000500  11.808319
+                Vertex -0.006772  0.000000 -0.030263 UV  1.000500  11.000500
+                Vertex -0.009312  0.000000 -0.030263 UV  1.033613  11.500000
+                Vertex -0.003672  0.000000 -0.034206 UV  1.500000  0.231340
+                Vertex -0.005737  0.003577  0.031569 UV  1.317072  12.219352
+                Vertex -0.005199  0.002645  0.023955 UV  1.364738  10.831725
+                Vertex -0.004469  0.001381  0.022953 UV  1.429407  10.649006
+                Vertex -0.004417  0.001290 -0.021771 UV  1.434016  2.497590
+                Vertex -0.004696  0.001775 -0.022282 UV  1.250697  11.939452
+                Vertex -0.004696  0.001775 -0.024311 UV  1.249739  11.910809
+                Vertex -0.005222  0.002685 -0.025183 UV  1.250250  11.808319
+                Vertex -0.005222  0.002685 -0.030263 UV  1.250250  11.000500
+                Vertex -0.006492  0.004884 -0.030263 UV  1.262143  11.093902
+                Vertex -0.003672  0.000000 -0.034206 UV  1.500000  0.231340
+                Vertex -0.001606  0.003577  0.031569 UV  1.682925  12.219352
+                Vertex -0.002144  0.002645  0.023955 UV  1.635259  10.831725
+                Vertex -0.002875  0.001381  0.022953 UV  1.570590  10.649006
+                Vertex -0.002927  0.001290 -0.021771 UV  1.565984  2.497590
+                Vertex -0.002647  0.001775 -0.022282 UV  1.749304  11.939452
+                Vertex -0.002647  0.001775 -0.024311 UV  1.750261  11.910809
+                Vertex -0.002122  0.002685 -0.025183 UV  1.749750  11.808319
+                Vertex -0.002122  0.002685 -0.030263 UV  1.749750  11.000500
+                Vertex -0.000852  0.004884 -0.030263 UV  1.737857  11.093903
+                Vertex -0.003672  0.000000 -0.034206 UV  1.500000  0.231340
+                Vertex -0.002182 -0.000000 -0.021771 UV  1.997015  11.999500
+                Vertex -0.002182 -0.000000 -0.021771 UV  1.997015  11.999500
+                Vertex -0.002927 -0.001290 -0.021771 UV  1.748506  11.999500
+                Vertex -0.000572  0.000000 -0.030263 UV  1.744134  11.500000
+                Vertex -0.000572  0.000000 -0.030263 UV  1.744134  11.500000
+                Vertex -0.002122 -0.002685 -0.030263 UV  1.630733  11.723204
+                Vertex  0.001968  0.000000 -0.030263 UV  1.999500  0.949997
+                Vertex  0.001968  0.000000 -0.030263 UV  1.999500  0.949997
+                Vertex -0.000852 -0.004884 -0.030263 UV  1.749750  0.949997
+                Vertex -0.002927 -0.001290 -0.021771 UV  1.748506  11.999500
+                Vertex -0.002927 -0.001290 -0.021771 UV  1.748506  11.999500
+                Vertex -0.004417 -0.001290 -0.021771 UV  1.251492  11.999500
+                Vertex -0.002122 -0.002685 -0.030263 UV  1.630733  11.723204
+                Vertex -0.002122 -0.002685 -0.030263 UV  1.630733  11.723204
+                Vertex -0.005222 -0.002685 -0.030263 UV  1.369266  11.723204
+                Vertex -0.000852 -0.004884 -0.030263 UV  1.749750  0.949997
+                Vertex -0.000852 -0.004884 -0.030263 UV  1.749750  0.949997
+                Vertex -0.006492 -0.004884 -0.030263 UV  1.250250  0.949996
+                Vertex -0.004417 -0.001290 -0.021771 UV  1.251492  11.999500
+                Vertex -0.004417 -0.001290 -0.021771 UV  1.251492  11.999500
+                Vertex -0.005162  0.000000 -0.021771 UV  1.002985  11.999500
+                Vertex -0.005222 -0.002685 -0.030263 UV  1.369266  11.723204
+                Vertex -0.005222 -0.002685 -0.030263 UV  1.369266  11.723204
+                Vertex -0.006772  0.000000 -0.030263 UV  1.255866  11.500000
+                Vertex -0.006492 -0.004884 -0.030263 UV  1.250250  0.949996
+                Vertex -0.006492 -0.004884 -0.030263 UV  1.250250  0.949996
+                Vertex -0.009312  0.000000 -0.030263 UV  1.000500  0.949996
+                Vertex -0.005162  0.000000 -0.021771 UV  1.002985  11.999500
+                Vertex -0.005162  0.000000 -0.021771 UV  1.002985  11.999500
+                Vertex -0.004417  0.001290 -0.021771 UV  1.251493  11.999500
+                Vertex -0.006772  0.000000 -0.030263 UV  1.255866  11.500000
+                Vertex -0.006772  0.000000 -0.030263 UV  1.255866  11.500000
+                Vertex -0.005222  0.002685 -0.030263 UV  1.369267  11.276796
+                Vertex -0.009312  0.000000 -0.030263 UV  1.000500  0.949996
+                Vertex -0.009312  0.000000 -0.030263 UV  1.000500  0.949996
+                Vertex -0.006492  0.004884 -0.030263 UV  1.250250  0.949996
+                Vertex -0.004417  0.001290 -0.021771 UV  1.251493  11.999500
+                Vertex -0.004417  0.001290 -0.021771 UV  1.251493  11.999500
+                Vertex -0.002927  0.001290 -0.021771 UV  1.748508  11.999500
+                Vertex -0.005222  0.002685 -0.030263 UV  1.369267  11.276796
+                Vertex -0.005222  0.002685 -0.030263 UV  1.369267  11.276796
+                Vertex -0.002122  0.002685 -0.030263 UV  1.630734  11.276796
+                Vertex -0.006492  0.004884 -0.030263 UV  1.250250  0.949996
+                Vertex -0.006492  0.004884 -0.030263 UV  1.250250  0.949996
+                Vertex -0.000852  0.004884 -0.030263 UV  1.749750  0.949997
+                Vertex -0.002927  0.001290 -0.021771 UV  1.748508  11.999500
+                Vertex -0.002927  0.001290 -0.021771 UV  1.748508  11.999500
+                Vertex -0.002182 -0.000000 -0.021771 UV  1.997015  11.999500
+                Vertex -0.002122  0.002685 -0.030263 UV  1.630734  11.276796
+                Vertex -0.002122  0.002685 -0.030263 UV  1.630734  11.276796
+                Vertex -0.000572  0.000000 -0.030263 UV  1.744134  11.500000
+                Vertex -0.000852  0.004884 -0.030263 UV  1.749750  0.949997
+                Vertex -0.000852  0.004884 -0.030263 UV  1.749750  0.949997
+                Vertex  0.001968  0.000000 -0.030263 UV  1.999500  0.949997
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.176471  0.1  0.1
+                Color 0.745098 0.74902 0.764706
+                Diffuse 0.745098 0.74902 0.764706
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-02.BMP
+                
+                Triangle 1 12 2
+                Triangle 1 11 12
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1  0.1  0.1
+                Color 0.498039 0.498039 0.498039
+                Diffuse 0.498039 0.498039 0.498039
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-03.BMP
+                
+                Triangle 2 13 3
+                Triangle 2 12 13
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.176471  0.1  0.1
+                Color 0.745098 0.74902 0.764706
+                Diffuse 0.745098 0.74902 0.764706
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-02.BMP
+                
+                Triangle 3 14 4
+                Triangle 3 13 14
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.176471  0.1  0.1
+                Color 0.745098 0.74902 0.764706
+                Diffuse 0.745098 0.74902 0.764706
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-04.BMP
+                
+                Triangle 61 15 5
+                Triangle 62 63 15
+                Triangle 5 16 6
+                Triangle 5 15 16
+                Triangle 6 17 7
+                Triangle 6 16 17
+                Triangle 7 18 8
+                Triangle 7 17 18
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1  0.1  0.1
+                Color 0.498039 0.498039 0.498039
+                Diffuse 0.498039 0.498039 0.498039
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-01.BMP
+                
+                Triangle 64 19 9
+                Triangle 65 66 19
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1  0.1  0.1
+                Color 0.498039 0.498039 0.498039
+                Diffuse 0.498039 0.498039 0.498039
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-03.BMP
+                
+                Triangle 67 20 10
+                Triangle 68 69 20
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.176471  0.1  0.1
+                Color 0.745098 0.74902 0.764706
+                Diffuse 0.745098 0.74902 0.764706
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-02.BMP
+                
+                Triangle 11 22 12
+                Triangle 11 21 22
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1  0.1  0.1
+                Color 0.498039 0.498039 0.498039
+                Diffuse 0.498039 0.498039 0.498039
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-03.BMP
+                
+                Triangle 12 23 13
+                Triangle 12 22 23
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.176471  0.1  0.1
+                Color 0.745098 0.74902 0.764706
+                Diffuse 0.745098 0.74902 0.764706
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-02.BMP
+                
+                Triangle 13 24 14
+                Triangle 13 23 24
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.176471  0.1  0.1
+                Color 0.745098 0.74902 0.764706
+                Diffuse 0.745098 0.74902 0.764706
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-04.BMP
+                
+                Triangle 70 25 15
+                Triangle 71 72 25
+                Triangle 15 26 16
+                Triangle 15 25 26
+                Triangle 16 27 17
+                Triangle 16 26 27
+                Triangle 17 28 18
+                Triangle 17 27 28
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1  0.1  0.1
+                Color 0.498039 0.498039 0.498039
+                Diffuse 0.498039 0.498039 0.498039
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-01.BMP
+                
+                Triangle 73 29 19
+                Triangle 74 75 29
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1  0.1  0.1
+                Color 0.498039 0.498039 0.498039
+                Diffuse 0.498039 0.498039 0.498039
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-03.BMP
+                
+                Triangle 76 30 20
+                Triangle 77 78 30
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.176471  0.1  0.1
+                Color 0.745098 0.74902 0.764706
+                Diffuse 0.745098 0.74902 0.764706
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-02.BMP
+                
+                Triangle 21 32 22
+                Triangle 21 31 32
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1  0.1  0.1
+                Color 0.498039 0.498039 0.498039
+                Diffuse 0.498039 0.498039 0.498039
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-03.BMP
+                
+                Triangle 22 33 23
+                Triangle 22 32 33
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.176471  0.1  0.1
+                Color 0.745098 0.74902 0.764706
+                Diffuse 0.745098 0.74902 0.764706
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-02.BMP
+                
+                Triangle 23 34 24
+                Triangle 23 33 34
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.176471  0.1  0.1
+                Color 0.745098 0.74902 0.764706
+                Diffuse 0.745098 0.74902 0.764706
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-04.BMP
+                
+                Triangle 79 35 25
+                Triangle 80 81 35
+                Triangle 25 36 26
+                Triangle 25 35 36
+                Triangle 26 37 27
+                Triangle 26 36 37
+                Triangle 27 38 28
+                Triangle 27 37 38
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1  0.1  0.1
+                Color 0.498039 0.498039 0.498039
+                Diffuse 0.498039 0.498039 0.498039
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-01.BMP
+                
+                Triangle 82 39 29
+                Triangle 83 84 39
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1  0.1  0.1
+                Color 0.498039 0.498039 0.498039
+                Diffuse 0.498039 0.498039 0.498039
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-03.BMP
+                
+                Triangle 85 40 30
+                Triangle 86 87 40
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.176471  0.1  0.1
+                Color 0.745098 0.74902 0.764706
+                Diffuse 0.745098 0.74902 0.764706
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-02.BMP
+                
+                Triangle 31 42 32
+                Triangle 31 41 42
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1  0.1  0.1
+                Color 0.498039 0.498039 0.498039
+                Diffuse 0.498039 0.498039 0.498039
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-03.BMP
+                
+                Triangle 32 43 33
+                Triangle 32 42 43
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.176471  0.1  0.1
+                Color 0.745098 0.74902 0.764706
+                Diffuse 0.745098 0.74902 0.764706
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-02.BMP
+                
+                Triangle 33 44 34
+                Triangle 33 43 44
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.176471  0.1  0.1
+                Color 0.745098 0.74902 0.764706
+                Diffuse 0.745098 0.74902 0.764706
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-04.BMP
+                
+                Triangle 88 45 35
+                Triangle 89 90 45
+                Triangle 35 46 36
+                Triangle 35 45 46
+                Triangle 36 47 37
+                Triangle 36 46 47
+                Triangle 37 48 38
+                Triangle 37 47 48
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1  0.1  0.1
+                Color 0.498039 0.498039 0.498039
+                Diffuse 0.498039 0.498039 0.498039
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-01.BMP
+                
+                Triangle 91 49 39
+                Triangle 92 93 49
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1  0.1  0.1
+                Color 0.498039 0.498039 0.498039
+                Diffuse 0.498039 0.498039 0.498039
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-03.BMP
+                
+                Triangle 94 50 40
+                Triangle 95 96 50
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.176471  0.1  0.1
+                Color 0.745098 0.74902 0.764706
+                Diffuse 0.745098 0.74902 0.764706
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-02.BMP
+                
+                Triangle 41 52 42
+                Triangle 41 51 52
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1  0.1  0.1
+                Color 0.498039 0.498039 0.498039
+                Diffuse 0.498039 0.498039 0.498039
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-03.BMP
+                
+                Triangle 42 53 43
+                Triangle 42 52 53
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.176471  0.1  0.1
+                Color 0.745098 0.74902 0.764706
+                Diffuse 0.745098 0.74902 0.764706
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-02.BMP
+                
+                Triangle 43 54 44
+                Triangle 43 53 54
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.176471  0.1  0.1
+                Color 0.745098 0.74902 0.764706
+                Diffuse 0.745098 0.74902 0.764706
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-04.BMP
+                
+                Triangle 97 55 45
+                Triangle 98 99 55
+                Triangle 45 56 46
+                Triangle 45 55 56
+                Triangle 46 57 47
+                Triangle 46 56 57
+                Triangle 47 58 48
+                Triangle 47 57 58
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1  0.1  0.1
+                Color 0.498039 0.498039 0.498039
+                Diffuse 0.498039 0.498039 0.498039
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-01.BMP
+                
+                Triangle 100 59 49
+                Triangle 101 102 59
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1  0.1  0.1
+                Color 0.498039 0.498039 0.498039
+                Diffuse 0.498039 0.498039 0.498039
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-03.BMP
+                
+                Triangle 103 60 50
+                Triangle 104 105 60
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.176471  0.1  0.1
+                Color 0.745098 0.74902 0.764706
+                Diffuse 0.745098 0.74902 0.764706
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-02.BMP
+                
+                Triangle 51 2 52
+                Triangle 51 1 2
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1  0.1  0.1
+                Color 0.498039 0.498039 0.498039
+                Diffuse 0.498039 0.498039 0.498039
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-03.BMP
+                
+                Triangle 52 3 53
+                Triangle 52 2 3
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.176471  0.1  0.1
+                Color 0.745098 0.74902 0.764706
+                Diffuse 0.745098 0.74902 0.764706
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-02.BMP
+                
+                Triangle 53 4 54
+                Triangle 53 3 4
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.176471  0.1  0.1
+                Color 0.745098 0.74902 0.764706
+                Diffuse 0.745098 0.74902 0.764706
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-04.BMP
+                
+                Triangle 106 5 55
+                Triangle 107 108 5
+                Triangle 55 6 56
+                Triangle 55 5 6
+                Triangle 56 7 57
+                Triangle 56 6 7
+                Triangle 57 8 58
+                Triangle 57 7 8
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1  0.1  0.1
+                Color 0.498039 0.498039 0.498039
+                Diffuse 0.498039 0.498039 0.498039
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-01.BMP
+                
+                Triangle 109 9 59
+                Triangle 110 111 9
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1  0.1  0.1
+                Color 0.498039 0.498039 0.498039
+                Diffuse 0.498039 0.498039 0.498039
+                Specular 0.898039 0.898039 0.898039
+                TextureModes Foreshorten
+                Texture ADLM-03.BMP
+                
+                Triangle 112 10 60
+                Triangle 113 114 10
+                
+            ClumpEnd
+        TransformEnd
+    ClumpEnd
+ModelEnd

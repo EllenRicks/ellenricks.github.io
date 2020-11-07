@@ -1,0 +1,520 @@
+# Output from 3DSMax RenderWare File Export plug-in V1.0
+ModelBegin
+    ClumpBegin
+        # top
+        
+        TransformBegin
+            Transform -0.365354  0.000000  0.031964  0.000000  0.000000  0.366750  0.000000  0.000000 -0.031964  0.000000 -0.365354  0.000000  0.346606 -3.745953 -0.459159  1.000000
+            
+            ClumpBegin
+                Tag 1
+                Hints NULL
+                Vertex -0.221228  6.221955 -0.144889 UV  0.857124  0.777937
+                Vertex -0.228276  6.221955  0.137004 UV  0.867982  0.330363
+                Vertex -0.027356  6.221955  0.269157 UV  0.558447  0.120538
+                Vertex  0.218556  6.221955  0.168701 UV  0.179598  0.280036
+                Vertex  0.242261  6.221955 -0.115924 UV  0.143077  0.731948
+                Vertex  0.018299  6.221955 -0.246570 UV  0.488112  0.939380
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes NULL
+                Texture Coke_01.cmp
+                
+                Triangle 6 1 2
+                Triangle 6 2 3
+                Triangle 6 3 4
+                Triangle 6 4 5
+                
+            ClumpEnd
+        TransformEnd
+        # sec01
+        
+        TransformBegin
+            Transform -0.365354  0.000000  0.031964  0.000000  0.000000  0.366750  0.000000  0.000000 -0.031964  0.000000 -0.365354  0.000000  0.346606 -3.745953 -0.459159  1.000000
+            
+            ClumpBegin
+                Tag 2
+                Hints NULL
+                Vertex -2.923257  5.439661 -1.994076 UV  0.000000  2.000000
+                Vertex  0.152271  5.439660 -3.299661 UV  0.000000  2.000000
+                Vertex -2.814725  5.583105 -1.919803 UV  0.991307  1.953336
+                Vertex  0.146894  5.583105 -3.177032 UV  0.016531  1.953370
+                Vertex -0.221119  6.221955 -0.144879 UV  0.478106  0.998058
+                Vertex  0.018408  6.221955 -0.246560 UV  0.399269  0.998060
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1 0.184312  0.1
+                Color  0.2 0.552941 0.176471
+                Diffuse  0.2 0.552941 0.176471
+                Specular  0.9  0.9  0.9
+                TextureModes NULL
+                Texture ptop.cmp
+                
+                Triangle 2 1 3
+                Triangle 2 3 4
+                Triangle 4 3 5
+                Triangle 4 5 6
+                
+            ClumpEnd
+        TransformEnd
+        # sec02
+        
+        TransformBegin
+            Transform -0.365354  0.000000  0.031964  0.000000  0.000000  0.366750  0.000000  0.000000 -0.031964  0.000000 -0.365354  0.000000  0.346606 -3.745953 -0.459159  1.000000
+            
+            ClumpBegin
+                Tag 3
+                Hints NULL
+                Vertex -2.923257  5.439661 -1.994076 UV  20.500000  2.000000
+                Vertex -3.013749  5.439660  1.625424 UV  0.000000  2.000000
+                Vertex -2.814725  5.583105 -1.919803 UV  0.011879  1.948779
+                Vertex -2.901865  5.583105  1.565642 UV  0.984576  1.936388
+                Vertex -0.221119  6.221955 -0.144879 UV  0.481529  0.997046
+                Vertex -0.228167  6.221955  0.137013 UV  0.560197  0.996044
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes NULL
+                Texture Coke_01.cmp
+                
+                Triangle 1 2 4
+                Triangle 1 4 3
+                Triangle 3 4 6
+                Triangle 3 6 5
+                
+            ClumpEnd
+        TransformEnd
+        # sec03
+        
+        TransformBegin
+            Transform -0.365354  0.000000  0.031964  0.000000  0.000000  0.366750  0.000000  0.000000 -0.031964  0.000000 -0.365354  0.000000  0.346606 -3.745953 -0.459159  1.000000
+            
+            ClumpBegin
+                Tag 4
+                Hints NULL
+                Vertex -3.013749  5.439660  1.625424 UV  0.968123  1.992712
+                Vertex -0.433934  5.439661  3.322267 UV  1.951757  1.999223
+                Vertex -2.901865  5.583105  1.565642 UV  0.987642  1.952601
+                Vertex -0.417600  5.583105  3.199638 UV  1.934846  1.958871
+                Vertex -0.228167  6.221955  0.137013 UV  1.454096  0.994046
+                Vertex -0.027247  6.221955  0.269166 UV  1.530703  0.994553
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1 0.184312  0.1
+                Color  0.2 0.552941 0.176471
+                Diffuse  0.2 0.552941 0.176471
+                Specular  0.9  0.9  0.9
+                TextureModes NULL
+                Texture ptop.cmp
+                
+                Triangle 1 2 4
+                Triangle 1 4 3
+                Triangle 3 4 6
+                Triangle 3 6 5
+                
+            ClumpEnd
+        TransformEnd
+        # sec04
+        
+        TransformBegin
+            Transform -0.365354  0.000000  0.031964  0.000000  0.000000  0.366750  0.000000  0.000000 -0.031964  0.000000 -0.365354  0.000000  0.346606 -3.745953 -0.459159  1.000000
+            
+            ClumpBegin
+                Tag 5
+                Hints NULL
+                Vertex -0.433934  5.439661  3.322267 UV  0.007640  0.989018
+                Vertex  2.723573  5.439660  2.032413 UV  0.984565  0.984189
+                Vertex -0.417600  5.583105  3.199638 UV  0.025136  0.949381
+                Vertex  2.622963  5.583105  1.957557 UV  0.965878  0.944731
+                Vertex -0.027247  6.221955  0.269166 UV  0.443228  0.002173
+                Vertex  0.218665  6.221955  0.168710 UV  0.519313  0.001796
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes NULL
+                Texture Coke_01.cmp
+                
+                Triangle 1 2 4
+                Triangle 1 4 3
+                Triangle 3 4 6
+                Triangle 3 6 5
+                
+            ClumpEnd
+        TransformEnd
+        # sec05
+        
+        TransformBegin
+            Transform -0.365354  0.000000  0.031964  0.000000  0.000000  0.366750  0.000000  0.000000 -0.031964  0.000000 -0.365354  0.000000  0.346606 -3.745953 -0.459159  1.000000
+            
+            ClumpBegin
+                Tag 6
+                Hints NULL
+                Vertex  2.723573  5.439660  2.032413 UV  0.002889  1.971592
+                Vertex  3.027952  5.439661 -1.622171 UV  0.975429  1.969301
+                Vertex  2.622963  5.583105  1.957557 UV  0.013659  1.932797
+                Vertex  2.916069  5.583105 -1.561672 UV  0.950178  1.930591
+                Vertex  0.218665  6.221955  0.168710 UV  0.401118  0.993210
+                Vertex  0.242370  6.221955 -0.115915 UV  0.476861  0.993031
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1 0.184312  0.1
+                Color  0.2 0.552941 0.176471
+                Diffuse  0.2 0.552941 0.176471
+                Specular  0.9  0.9  0.9
+                TextureModes NULL
+                Texture ptop.cmp
+                
+                Triangle 1 2 4
+                Triangle 1 4 3
+                Triangle 3 4 6
+                Triangle 3 6 5
+                
+            ClumpEnd
+        TransformEnd
+        # sec06
+        
+        TransformBegin
+            Transform -0.365354  0.000000  0.031964  0.000000  0.000000  0.366750  0.000000  0.000000 -0.031964  0.000000 -0.365354  0.000000  0.346606 -3.745953 -0.459159  1.000000
+            
+            ClumpBegin
+                Tag 7
+                Hints NULL
+                Vertex  3.027952  5.439661 -1.622171 UV  0.000638  1.989485
+                Vertex  0.152271  5.439660 -3.299661 UV  0.991161  1.994983
+                Vertex  2.916069  5.583105 -1.561672 UV  0.020467  1.949561
+                Vertex  0.146894  5.583105 -3.177032 UV  0.974303  1.954855
+                Vertex  0.242370  6.221955 -0.115915 UV  0.494318  0.995490
+                Vertex  0.018408  6.221955 -0.246560 UV  0.571462  0.995918
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes NULL
+                Texture Coke_01.cmp
+                
+                Triangle 1 2 4
+                Triangle 1 4 3
+                Triangle 3 4 6
+                Triangle 3 6 5
+                
+            ClumpEnd
+        TransformEnd
+        # sec01u
+        
+        TransformBegin
+            Transform -0.365354  0.000000  0.031964  0.000000  0.000000  0.366750  0.000000  0.000000 -0.031964  0.000000 -0.365354  0.000000  0.346606 -3.745953 -0.459159  1.000000
+            
+            ClumpBegin
+                Tag 8
+                Hints NULL
+                Vertex -2.919180  5.439660 -1.979712 UV  1.000000  1.000000
+                Vertex  0.156348  5.439660 -3.285297 UV  1.000000  1.000000
+                Vertex -2.810648  5.583105 -1.905438 UV  0.993580  0.957245
+                Vertex  0.150971  5.583104 -3.162668 UV  1.968356  0.957279
+                Vertex -0.217042  6.221954 -0.130515 UV  1.506781  0.001966
+                Vertex  0.022485  6.221954 -0.232196 UV  1.585618  0.001969
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1 0.223527 0.216991
+                Color 0.105882 0.670588 0.65098
+                Diffuse 0.105882 0.670588 0.65098
+                Specular  0.9  0.9  0.9
+                TextureModes NULL
+                Texture ptop2.cmp
+                
+                Triangle 1 2 3
+                Triangle 3 2 4
+                Triangle 3 4 5
+                Triangle 5 4 6
+                
+            ClumpEnd
+        TransformEnd
+        # sec02u
+        
+        TransformBegin
+            Transform -0.365354  0.000000  0.031964  0.000000  0.000000  0.366750  0.000000  0.000000 -0.031964  0.000000 -0.365354  0.000000  0.346606 -3.745953 -0.459159  1.000000
+            
+            ClumpBegin
+                Tag 9
+                Hints NULL
+                Vertex -2.919180  5.439661 -1.979712 UV  0.992226  1.988605
+                Vertex -3.009672  5.439660  1.639788 UV  2.002335  1.975738
+                Vertex -2.810648  5.583105 -1.905438 UV  1.011879  1.948779
+                Vertex -2.897788  5.583105  1.580006 UV  1.984576  1.936388
+                Vertex -0.217042  6.221955 -0.130515 UV  1.481529  0.997046
+                Vertex -0.224090  6.221955  0.151377 UV  1.560197  0.996044
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1  0.1 0.181698
+                Color 0.266667 0.192157 0.545098
+                Diffuse 0.266667 0.192157 0.545098
+                Specular  0.9  0.9  0.9
+                TextureModes NULL
+                Texture Coke_01a.cmp
+                
+                Triangle 2 1 4
+                Triangle 4 1 3
+                Triangle 4 3 6
+                Triangle 6 3 5
+                
+            ClumpEnd
+        TransformEnd
+        # sec03u
+        
+        TransformBegin
+            Transform -0.365354  0.000000  0.031964  0.000000  0.000000  0.366750  0.000000  0.000000 -0.031964  0.000000 -0.365354  0.000000  0.346606 -3.745953 -0.459159  1.000000
+            
+            ClumpBegin
+                Tag 10
+                Hints NULL
+                Vertex -3.009672  5.439660  1.639788 UV  1.031877  1.992712
+                Vertex -0.429857  5.439661  3.336631 UV  0.048243  1.999223
+                Vertex -2.897788  5.583105  1.580006 UV  1.012357  1.952601
+                Vertex -0.413523  5.583105  3.214002 UV  0.065154  1.958871
+                Vertex -0.224090  6.221955  0.151377 UV  0.545904  0.994046
+                Vertex -0.023170  6.221955  0.283530 UV  0.469297  0.994553
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1 0.223527 0.216991
+                Color 0.105882 0.670588 0.65098
+                Diffuse 0.105882 0.670588 0.65098
+                Specular  0.9  0.9  0.9
+                TextureModes NULL
+                Texture ptop2.cmp
+                
+                Triangle 2 1 4
+                Triangle 4 1 3
+                Triangle 4 3 6
+                Triangle 6 3 5
+                
+            ClumpEnd
+        TransformEnd
+        # sec4u
+        
+        TransformBegin
+            Transform -0.365354  0.000000  0.031964  0.000000  0.000000  0.366750  0.000000  0.000000 -0.031964  0.000000 -0.365354  0.000000  0.346606 -3.745953 -0.459159  1.000000
+            
+            ClumpBegin
+                Tag 11
+                Hints NULL
+                Vertex -0.429857  5.439661  3.336631 UV  0.007640  0.989018
+                Vertex  2.727650  5.439660  2.046777 UV  0.984565  0.984189
+                Vertex -0.413523  5.583105  3.214002 UV  0.025136  0.949381
+                Vertex  2.627040  5.583105  1.971921 UV  0.965878  0.944731
+                Vertex -0.023170  6.221955  0.283530 UV  0.000000  1.000000
+                Vertex  0.222742  6.221955  0.183074 UV  0.000000  1.000000
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1  0.1 0.181698
+                Color 0.266667 0.192157 0.545098
+                Diffuse 0.266667 0.192157 0.545098
+                Specular  0.9  0.9  0.9
+                TextureModes NULL
+                Texture Coke_01a.cmp
+                
+                Triangle 2 1 4
+                Triangle 4 1 3
+                Triangle 4 3 6
+                Triangle 6 3 5
+                
+            ClumpEnd
+        TransformEnd
+        # sec5u
+        
+        TransformBegin
+            Transform -0.365354  0.000000  0.031964  0.000000  0.000000  0.366750  0.000000  0.000000 -0.031964  0.000000 -0.365354  0.000000  0.346606 -3.745953 -0.459159  1.000000
+            
+            ClumpBegin
+                Tag 12
+                Hints NULL
+                Vertex  2.727650  5.439660  2.046777 UV  0.997111  1.971592
+                Vertex  3.032029  5.439661 -1.607806 UV  0.024571  1.969301
+                Vertex  2.627040  5.583105  1.971921 UV  0.986341  1.932797
+                Vertex  2.920146  5.583105 -1.547307 UV  0.049822  1.930591
+                Vertex  0.222742  6.221955  0.183074 UV  0.598882  0.993210
+                Vertex  0.246447  6.221955 -0.101550 UV  0.523139  0.993031
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1 0.223527 0.216991
+                Color 0.105882 0.670588 0.65098
+                Diffuse 0.105882 0.670588 0.65098
+                Specular  0.9  0.9  0.9
+                TextureModes NULL
+                Texture ptop2.cmp
+                
+                Triangle 2 1 4
+                Triangle 4 1 3
+                Triangle 4 3 6
+                Triangle 6 3 5
+                
+            ClumpEnd
+        TransformEnd
+        # sec6u
+        
+        TransformBegin
+            Transform -0.365354  0.000000  0.031964  0.000000  0.000000  0.366750  0.000000  0.000000 -0.031964  0.000000 -0.365354  0.000000  0.346606 -3.745953 -0.459159  1.000000
+            
+            ClumpBegin
+                Tag 13
+                Hints NULL
+                Vertex  3.032029  5.439660 -1.607806 UV  0.000638  0.989485
+                Vertex  0.156348  5.439660 -3.285297 UV  0.991161  0.994983
+                Vertex  2.920146  5.583105 -1.547307 UV  0.020467  0.949561
+                Vertex  0.150971  5.583104 -3.162668 UV  0.974303  0.954855
+                Vertex  0.246447  6.221954 -0.101550 UV  0.000000  1.000000
+                Vertex  0.022485  6.221954 -0.232196 UV  0.000000  1.000000
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1  0.1 0.181698
+                Color 0.266667 0.192157 0.545098
+                Diffuse 0.266667 0.192157 0.545098
+                Specular  0.9  0.9  0.9
+                TextureModes NULL
+                Texture Coke_01a.cmp
+                
+                Triangle 2 1 4
+                Triangle 4 1 3
+                Triangle 4 3 6
+                Triangle 6 3 5
+                
+            ClumpEnd
+        TransformEnd
+        # top01
+        
+        TransformBegin
+            Transform -0.365354  0.000000  0.031964  0.000000  0.000000  0.366750  0.000000  0.000000 -0.031964  0.000000 -0.365354  0.000000  0.346606 -3.745953 -0.459159  1.000000
+            
+            ClumpBegin
+                Tag 14
+                Hints NULL
+                Vertex -0.217042  6.221955 -0.130515 UV  0.857124  0.777937
+                Vertex -0.224090  6.221955  0.151377 UV  0.867982  0.330363
+                Vertex -0.023170  6.221955  0.283530 UV  0.558447  0.120538
+                Vertex  0.222742  6.221955  0.183074 UV  0.179598  0.280036
+                Vertex  0.246447  6.221955 -0.101550 UV  0.143077  0.731948
+                Vertex  0.022485  6.221955 -0.232196 UV  0.488112  0.939380
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1 0.103267 0.181698
+                Color 0.192157 0.309804 0.545098
+                Diffuse 0.192157 0.309804 0.545098
+                Specular  0.9  0.9  0.9
+                TextureModes NULL
+                Texture cokepole.cmp
+                
+                Triangle 1 6 2
+                Triangle 2 6 3
+                Triangle 3 6 4
+                Triangle 4 6 5
+                
+            ClumpEnd
+        TransformEnd
+        # pole face 03
+        
+        TransformBegin
+            Transform  0.294005  0.000000  0.000000  0.000000  0.000000  0.294005  0.000000  0.000000  0.000000  0.000000  0.294005  0.000000  0.350634 -2.911516 -0.462102  1.000000
+            
+            ClumpBegin
+                Tag 15
+                Hints NULL
+                Vertex  0.076835 -0.000420 -0.017412 UV  0.999496  2.998501
+                Vertex -0.023976 -0.000420 -0.075615 UV  0.000500  2.998501
+                Vertex  0.076835  4.773800 -0.017412 UV  0.999500  0.001499
+                Vertex -0.023976  4.773800 -0.075615 UV  0.000504  0.001499
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1 0.103267 0.181698
+                Color 0.192157 0.309804 0.545098
+                Diffuse 0.192157 0.309804 0.545098
+                Specular  0.9  0.9  0.9
+                TextureModes NULL
+                Texture cokepole.cmp
+                
+                Triangle 1 2 4
+                Triangle 1 4 3
+                
+            ClumpEnd
+        TransformEnd
+        # pole face 01
+        
+        TransformBegin
+            Transform  0.294005  0.000000  0.000000  0.000000  0.000000  0.294005  0.000000  0.000000  0.000000  0.000000  0.294005  0.000000  0.350634 -2.911516 -0.462102  1.000000
+            
+            ClumpBegin
+                Tag 16
+                Hints NULL
+                Vertex  0.076936 -0.000420 -0.017407 UV  0.000500  2.998501
+                Vertex -0.023875 -0.000420  0.040796 UV  0.998735  2.998501
+                Vertex  0.076835  4.773800 -0.017407 UV  0.001265  0.001499
+                Vertex -0.023976  4.773800  0.040796 UV  0.999500  0.001499
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1 0.103267 0.181698
+                Color 0.192157 0.309804 0.545098
+                Diffuse 0.192157 0.309804 0.545098
+                Specular  0.9  0.9  0.9
+                TextureModes NULL
+                Texture cokepole.cmp
+                
+                Triangle 2 1 3
+                Triangle 2 3 4
+                
+            ClumpEnd
+        TransformEnd
+        # pole face 02
+        
+        TransformBegin
+            Transform  0.294005  0.000000  0.000000  0.000000  0.000000  0.294005  0.000000  0.000000  0.000000  0.000000  0.294005  0.000000  0.350634 -2.911516 -0.462102  1.000000
+            
+            ClumpBegin
+                Tag 17
+                Hints NULL
+                Vertex -0.023976 -0.000420 -0.075615 UV  0.000500  2.998502
+                Vertex -0.023976 -0.000420  0.040791 UV  0.999493  2.998502
+                Vertex -0.023976  4.773800 -0.075615 UV  0.000507  0.001498
+                Vertex -0.023976  4.773800  0.040791 UV  0.999500  0.001498
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1 0.103267 0.181698
+                Color 0.192157 0.309804 0.545098
+                Diffuse 0.192157 0.309804 0.545098
+                Specular  0.9  0.9  0.9
+                TextureModes NULL
+                Texture cokepole.cmp
+                
+                Triangle 1 2 4
+                Triangle 1 4 3
+                
+            ClumpEnd
+        TransformEnd
+    ClumpEnd
+ModelEnd

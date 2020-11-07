@@ -1,0 +1,112 @@
+# Output from 3DSMax RenderWare File Export plug-in V1.0
+ModelBegin
+    ClumpBegin
+        # Line01
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000 -1.000000  0.000000  0.000000  0.600000  0.233333  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 1
+                Hints NULL
+                Vertex  0.600000  0.000000  0.233333 UV  0.999501  0.598981
+                Vertex  0.514286  0.000000  0.126336 UV  0.928143  0.527513
+                Vertex  0.428571  0.000000  0.020214 UV  0.856786  0.456629
+                Vertex  0.342857  0.000000 -0.084159 UV  0.785429  0.386913
+                Vertex  0.257143  0.000000 -0.185909 UV  0.714072  0.318950
+                Vertex  0.171429  0.000000 -0.284159 UV  0.642715  0.253323
+                Vertex  0.085714 -0.000000 -0.378037 UV  0.571357  0.190618
+                Vertex  0.000000 -0.000000 -0.466667 UV  0.500000  0.131418
+                Vertex -0.085714 -0.000000 -0.514480 UV  0.428643  0.099481
+                Vertex -0.171429 -0.000000 -0.494072 UV  0.357286  0.113113
+                Vertex -0.257143 -0.000000 -0.416812 UV  0.285929  0.164718
+                Vertex -0.342857 -0.000000 -0.294072 UV  0.214571  0.246702
+                Vertex -0.428571 -0.000000 -0.137221 UV  0.143214  0.351471
+                Vertex -0.514286 -0.000000  0.042371 UV  0.071857  0.471429
+                Vertex -0.600000  0.000000  0.233333 UV  0.000500  0.598981
+                Vertex  0.600000  0.050000  0.233333 UV  0.999501  0.598981
+                Vertex  0.514286  0.050000  0.126336 UV  0.928143  0.527513
+                Vertex  0.428571  0.050000  0.020214 UV  0.856786  0.456629
+                Vertex  0.342857  0.050000 -0.084159 UV  0.785429  0.386913
+                Vertex  0.257143  0.050000 -0.185909 UV  0.714072  0.318950
+                Vertex  0.171429  0.050000 -0.284159 UV  0.642715  0.253323
+                Vertex  0.085714  0.050000 -0.378037 UV  0.571357  0.190618
+                Vertex  0.000000  0.050000 -0.466667 UV  0.500000  0.131418
+                Vertex -0.085714  0.050000 -0.514480 UV  0.428643  0.099481
+                Vertex -0.171429  0.050000 -0.494072 UV  0.357286  0.113113
+                Vertex -0.257143  0.050000 -0.416812 UV  0.285929  0.164718
+                Vertex -0.342857  0.050000 -0.294072 UV  0.214571  0.246702
+                Vertex -0.428571  0.050000 -0.137221 UV  0.143214  0.351471
+                Vertex -0.514286  0.050000  0.042371 UV  0.071857  0.471429
+                Vertex -0.600000  0.050000  0.233333 UV  0.000500  0.598981
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture Shark.cmp
+                
+                Triangle 1 2 17
+                Triangle 1 17 16
+                Triangle 2 3 18
+                Triangle 2 18 17
+                Triangle 3 4 19
+                Triangle 3 19 18
+                Triangle 4 5 20
+                Triangle 4 20 19
+                Triangle 5 6 21
+                Triangle 5 21 20
+                Triangle 6 7 22
+                Triangle 6 22 21
+                Triangle 7 8 23
+                Triangle 7 23 22
+                Triangle 8 9 24
+                Triangle 8 24 23
+                Triangle 9 10 25
+                Triangle 9 25 24
+                Triangle 10 11 26
+                Triangle 10 26 25
+                Triangle 11 12 27
+                Triangle 11 27 26
+                Triangle 12 13 28
+                Triangle 12 28 27
+                Triangle 13 14 29
+                Triangle 13 29 28
+                Triangle 14 15 30
+                Triangle 14 30 29
+                Triangle 15 1 16
+                Triangle 15 16 30
+                Triangle 15 2 1
+                Triangle 15 3 2
+                Triangle 14 3 15
+                Triangle 14 4 3
+                Triangle 13 4 14
+                Triangle 13 5 4
+                Triangle 13 6 5
+                Triangle 12 6 13
+                Triangle 12 7 6
+                Triangle 11 7 12
+                Triangle 11 8 7
+                Triangle 10 8 11
+                Triangle 10 9 8
+                Triangle 30 16 17
+                Triangle 30 17 18
+                Triangle 29 30 18
+                Triangle 29 18 19
+                Triangle 28 29 19
+                Triangle 28 19 20
+                Triangle 28 20 21
+                Triangle 27 28 21
+                Triangle 27 21 22
+                Triangle 26 27 22
+                Triangle 26 22 23
+                Triangle 25 26 23
+                Triangle 25 23 24
+                
+            ClumpEnd
+        TransformEnd
+    ClumpEnd
+ModelEnd
