@@ -1,0 +1,71 @@
+# Output from 3DSMax RenderWare File Export plug-in V1.0
+ModelBegin
+    ClumpBegin
+        # Box02
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.150000  0.000000  0.100000  1.000000
+            
+            ClumpBegin
+                Tag 1
+                Hints NULL
+                Vertex -0.150000  0.000000  0.100000 UV  1.000000  2.000000
+                Vertex  0.150000  0.000000  0.100000 UV  0.000000  2.000000
+                Vertex -0.150000  0.000000 -0.100000 UV  0.000000  2.000000
+                Vertex  0.150000  0.000000 -0.100000 UV  1.000000  2.000000
+                Vertex -0.150000  0.600000  0.100000 UV  0.000000  2.000000
+                Vertex -0.150000  0.600000  0.100000 UV  1.000000  1.000000
+                Vertex  0.150000  0.600000  0.100000 UV  1.000000  2.000000
+                Vertex  0.150000  0.600000  0.100000 UV  0.000000  1.000000
+                Vertex -0.150000  0.600000 -0.100000 UV  0.000000  1.000000
+                Vertex -0.150000  0.600000 -0.100000 UV  0.000000  1.000000
+                Vertex  0.150000  0.600000 -0.100000 UV  1.000000  1.000000
+                Vertex  0.150000  0.600000 -0.100000 UV  1.000000  1.000000
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1 0.184312  0.1
+                Color  0.2 0.552941 0.176471
+                Diffuse  0.2 0.552941 0.176471
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture starbag2128.cmp
+                
+                Triangle 5 7 11
+                Triangle 11 9 5
+                Triangle 2 4 12
+                Triangle 12 8 2
+                Triangle 3 1 6
+                Triangle 6 10 3
+                
+            ClumpEnd
+        TransformEnd
+        # front01
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.150000  0.000000  0.100000  1.000000
+            
+            ClumpBegin
+                Tag 2
+                Hints NULL
+                Vertex -0.150000  0.000000  0.100000 UV  0.000499  0.999500
+                Vertex  0.150000  0.000000  0.100000 UV  0.999500  0.999501
+                Vertex -0.150000  0.600000  0.100000 UV  0.000500  0.000499
+                Vertex  0.150000  0.600000  0.100000 UV  0.999501  0.000500
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture starbag1128.cmp
+                
+                Triangle 1 2 4
+                Triangle 4 3 1
+                
+            ClumpEnd
+        TransformEnd
+    ClumpEnd
+ModelEnd
