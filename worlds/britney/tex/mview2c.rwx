@@ -1,0 +1,127 @@
+# Output from 3DSMax RenderWare File Export plug-in V1.0
+ModelBegin
+    ClumpBegin
+        # QuadPatch02Top01
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000 -1.000000  0.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 1
+                Hints NULL
+                Vertex  0.000000  0.000001 -20.000000 UV  0.000999  0.020489
+                Vertex  25.000000  0.000001 -20.000000 UV  1.999001  0.020490
+                Vertex  25.000000  0.000001 -13.333333 UV  1.999001  0.999510
+                Vertex  25.000000  0.000001 -16.666666 UV  1.999001  0.510000
+                Vertex  20.833332  0.000001 -19.999998 UV  1.666001  0.020490
+                Vertex  16.666666  0.000001 -19.999998 UV  1.333000  0.020490
+                Vertex  12.500000  0.000001 -20.000000 UV  1.000000  0.020490
+                Vertex  8.333332  0.000001 -20.000000 UV  0.667000  0.020490
+                Vertex  4.166667  0.000001 -20.000000 UV  0.333999  0.020490
+                Vertex  0.000001  0.000001 -16.666666 UV  0.000999  0.510000
+                Vertex  0.000001  0.000001 -13.333332 UV  0.000999  0.999510
+                Vertex  4.166667  5.000001 -13.333332 UV  0.333999  0.999510
+                Vertex  8.333334  5.000001 -13.333333 UV  0.667000  0.999510
+                Vertex  12.500000  5.000001 -13.333333 UV  1.000000  0.999510
+                Vertex  16.666668  4.000001 -13.333333 UV  1.333000  0.999510
+                Vertex  20.833332  4.000001 -13.333333 UV  1.666000  0.999510
+                Vertex  4.166667  3.000001 -16.666666 UV  0.333999  0.510000
+                Vertex  8.333334  3.000001 -16.666664 UV  0.667000  0.510000
+                Vertex  12.500000  3.000001 -16.666666 UV  1.000000  0.510000
+                Vertex  16.666668  0.000001 -16.666664 UV  1.333000  0.510000
+                Vertex  20.833332  0.000001 -16.666664 UV  1.666001  0.510000
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1  0.1  0.1
+                Color  0.5  0.5  0.5
+                Diffuse  0.5  0.5  0.5
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture rock3.CMP
+                
+                Triangle 12 13 18
+                Triangle 18 17 12
+                Triangle 13 14 19
+                Triangle 19 18 13
+                Triangle 14 15 20
+                Triangle 20 19 14
+                Triangle 15 16 21
+                Triangle 21 20 15
+                Triangle 2 5 21
+                Triangle 21 4 2
+                Triangle 10 17 9
+                Triangle 9 1 10
+                Triangle 5 6 20
+                Triangle 20 21 5
+                Triangle 11 12 17
+                Triangle 17 10 11
+                Triangle 6 7 19
+                Triangle 19 20 6
+                Triangle 7 8 18
+                Triangle 18 19 7
+                Triangle 4 21 16
+                Triangle 16 3 4
+                Triangle 8 9 17
+                Triangle 17 18 8
+                
+            ClumpEnd
+        TransformEnd
+        # QuadPatch02Side01
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000 -1.000000  0.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 2
+                Hints NULL
+                Vertex  0.000000  0.000001  0.000000 UV  0.000999  0.020489
+                Vertex  3.166667  10.000001 -0.000001 UV  0.507160  0.020490
+                Vertex  7.333334  10.000001 -0.000001 UV  1.173160  0.020489
+                Vertex  0.000001  0.000001 -13.333332 UV  0.001000  0.999511
+                Vertex  0.000000  0.000001 -10.000000 UV  0.000999  0.754755
+                Vertex  0.000000  0.000001 -6.666666 UV  0.000999  0.510000
+                Vertex  0.000000  0.000001 -3.333334 UV  0.000999  0.265245
+                Vertex  4.166667  8.000001 -3.333333 UV  0.667000  0.265245
+                Vertex  8.333334  8.000001 -3.333334 UV  1.333000  0.265245
+                Vertex  4.166667  7.000001 -6.666666 UV  0.667000  0.510000
+                Vertex  8.333333  7.000001 -6.666667 UV  1.333000  0.510000
+                Vertex  4.166667  6.000001 -9.999999 UV  0.667000  0.754755
+                Vertex  8.333335  6.000001 -9.999999 UV  1.333001  0.754755
+                Vertex  12.500000  6.000001 -9.999999 UV  1.999001  0.754755
+                Vertex  4.166667  5.000001 -13.333332 UV  0.667000  0.999511
+                Vertex  8.333334  5.000001 -13.333333 UV  1.333001  0.999511
+                Vertex  12.500000  5.000001 -13.333333 UV  1.999001  0.999510
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient  0.1  0.1  0.1
+                Color  0.5  0.5  0.5
+                Diffuse  0.5  0.5  0.5
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture rock3.CMP
+                
+                Triangle 8 9 11
+                Triangle 11 10 8
+                Triangle 10 11 13
+                Triangle 13 12 10
+                Triangle 12 13 16
+                Triangle 16 15 12
+                Triangle 13 14 17
+                Triangle 17 16 13
+                Triangle 1 2 8
+                Triangle 8 7 1
+                Triangle 2 3 9
+                Triangle 9 8 2
+                Triangle 5 12 15
+                Triangle 15 4 5
+                Triangle 6 10 12
+                Triangle 12 5 6
+                Triangle 7 8 10
+                Triangle 10 6 7
+                
+            ClumpEnd
+        TransformEnd
+    ClumpEnd
+ModelEnd

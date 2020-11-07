@@ -1,0 +1,42 @@
+# Output from 3DSMax RenderWare File Export plug-in V1.0
+ModelBegin
+    # Line01
+    
+    TransformBegin
+        Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+        
+        ClumpBegin
+            Tag 1
+            Hints NULL
+            Vertex  2865.745850  0.000000 -1654.539551 UV  7.497503  0.002499
+            Vertex  955.248596  0.000000 -1654.539307 UV  2.502499  0.002498
+            Vertex  0.000000  0.000000  0.000000 UV  0.004995  4.997500
+            Vertex  3820.994629  0.000000 -0.000156 UV  9.995005  4.997502
+            Vertex  2865.745850  0.000000 -1654.539551 UV  7.497503  0.002499
+            Vertex  955.248596  0.000000 -1654.539307 UV  2.502499  0.002498
+            Vertex  0.000000  0.000000  0.000000 UV  0.004995  4.997500
+            Vertex  3820.994629  0.000000 -0.000156 UV  9.995005  4.997502
+            
+            GeometrySampling Solid
+            LightSampling Vertex
+            Ambient 0.179083  0.1  0.1
+            Color 0.537255 0.196078 0.196078
+            Diffuse 0.537255 0.196078 0.196078
+            Specular  0.9  0.9  0.9
+            TextureModes Foreshorten
+            Texture ssfloor.cmp
+            
+            Triangle 1 2 6
+            Triangle 1 6 5
+            Triangle 2 3 7
+            Triangle 2 7 6
+            Triangle 3 4 8
+            Triangle 3 8 7
+            Triangle 4 1 5
+            Triangle 4 5 8
+            Triangle 7 8 5
+            Triangle 6 7 5
+            
+        ClumpEnd
+    TransformEnd
+ModelEnd

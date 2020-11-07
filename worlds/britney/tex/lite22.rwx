@@ -1,0 +1,71 @@
+# Output from 3DSMax RenderWare File Export plug-in V1.0
+ModelBegin
+    ClumpBegin
+        # Line01
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000 -1.000000  0.000000  0.000000 -0.009754  0.284024 -0.050000  1.000000
+            
+            ClumpBegin
+                Tag 1
+                Hints NULL
+                Vertex -0.377778  0.050000 -0.185513 UV  0.000500  1.071856
+                Vertex -0.229239  0.050000  0.210591 UV  0.204000  1.856786
+                Vertex  0.011574  0.050000  0.282610 UV  0.533917  1.999501
+                Vertex  0.241135  0.050000  0.165579 UV  0.848417  1.767590
+                Vertex  0.351414  0.050000 -0.221522 UV  0.999501  1.000499
+                Vertex  0.191622  0.250000 -0.226998 UV  0.780584  0.989650
+                Vertex -0.188728  0.250000 -0.224747 UV  0.259500  0.994109
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture sconce2.cmp
+                
+                Triangle 4 5 6
+                Triangle 7 1 2
+                Triangle 6 7 2
+                Triangle 6 2 3
+                Triangle 4 6 3
+                
+            ClumpEnd
+        TransformEnd
+        # Line02
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000 -1.000000  0.000000  0.000000 -0.009754  0.284024 -0.050000  1.000000
+            
+            ClumpBegin
+                Tag 2
+                Hints NULL
+                Vertex -0.377778  0.050000 -0.185513 UV  0.000000  1.071429
+                Vertex -0.229239  0.050000  0.210591 UV  0.203704  1.857143
+                Vertex  0.011574  0.050000  0.282610 UV  0.533951  2.000000
+                Vertex  0.241135  0.050000  0.165579 UV  0.848765  1.767857
+                Vertex  0.351414  0.050000 -0.221522 UV  1.000000  1.000000
+                Vertex  0.191622  0.250000 -0.226998 UV  0.780864  1.187500
+                Vertex -0.188728  0.250000 -0.224747 UV  0.259259  1.191964
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture sconce2.cmp
+                
+                Triangle 5 4 6
+                Triangle 1 7 2
+                Triangle 7 6 2
+                Triangle 2 6 3
+                Triangle 6 4 3
+                
+            ClumpEnd
+        TransformEnd
+    ClumpEnd
+ModelEnd

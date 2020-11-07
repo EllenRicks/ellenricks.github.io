@@ -1,0 +1,634 @@
+#
+# Renderware ASCII RWX file: D:\temp\aerosmith\22_march\rwx\Chair.RWX
+#
+# Converted by the PolyTrans geometry converter from Okino Computer Graphics, Inc.
+# Date/time of export: 03/27/2001 10:43:41
+#
+# Bounding box of geometry = (-0.304813,-5.43458e-006,-0.457201) to (0.304802,1.2192,0.457195).
+
+ModelBegin
+	ClumpBegin
+	TransformBegin
+	Identity
+	JointTransformBegin
+	IdentityJoint
+		ClumpBegin
+		TransformBegin
+		Identity
+		JointTransformBegin
+		IdentityJoint
+			ClumpBegin
+			TransformBegin
+			Identity
+			JointTransformBegin
+			IdentityJoint
+				AddHint Editable
+				Tag 1
+				VertexExt 0.3048 -2.47164e-006 0.355595 UV 0.000000 0.999999 Normal  0 0 -1
+				VertexExt 0.3048 -2.47164e-006 0.355595 UV 0.000500 0.306965 Normal  1 -3.75919e-006 0
+				VertexExt 0.304802 0.609603 0.355595 UV 0.000000 0.999999 Normal  0 0 -1
+				VertexExt 0.304802 0.609603 0.355595 UV 0.000000 0.999999 Normal  0.346786 0.937944 0
+				VertexExt 0.304802 0.609603 0.355595 UV 0.500005 0.306965 Normal  1 -3.75919e-006 0
+				VertexExt 0.153495 0.665542 0.355595 UV 0.248453 0.306965 Normal  0.346767 0.937952 0
+				VertexExt 0.153495 0.665542 0.355595 UV 0.000000 0.999999 Normal  0 0 -1
+				VertexExt 0.153495 0.665542 0.355595 UV 0.545841 0.306965 Normal  0.524634 0.851328 0
+				VertexExt 0.0425526 0.73391 0.355595 UV 0.000000 0.999999 Normal  0 0 -1
+				VertexExt 0.0425526 0.73391 0.355595 UV 0.601862 0.306965 Normal  0.762517 0.646969 0
+				VertexExt 0.0425526 0.73391 0.355595 UV 0.601862 0.306965 Normal  0.524634 0.851328 0
+				VertexExt -0.0425973 0.834268 0.355595 UV 0.000000 0.999999 Normal  0.111977 -0.016211 -0.993579
+				VertexExt -0.0425973 0.834268 0.355595 UV 0.684094 0.306965 Normal  0.943886 0.330272 0
+				VertexExt -0.0425973 0.834268 0.355595 UV 0.684094 0.306965 Normal  0.762517 0.646969 0
+				VertexExt -0.0769392 0.932414 0.355595 UV 0.000000 0.999999 Normal  0.133056 -0.165945 -0.977117
+				VertexExt -0.0769392 0.932414 0.355595 UV 0.764514 0.306965 Normal  0.988105 0.153778 0
+				VertexExt -0.0769392 0.932414 0.355595 UV 0.764514 0.306965 Normal  0.943886 0.330272 0
+				VertexExt -0.094089 1.04261 0.305754 UV 0.000000 0.999999 Normal  -0.0157095 -0.568991 -0.822194
+				VertexExt -0.094089 1.04261 0.305754 UV 0.854808 0.457305 Normal  0.956541 -0.291598 0
+				VertexExt -0.094089 1.04261 0.305754 UV 0.854808 0.457305 Normal  0.988105 0.153778 0
+				VertexExt -0.0671453 1.131 0.230699 UV 0.000000 0.999999 Normal  0.00879054 -0.736267 -0.676634
+				VertexExt -0.0671453 1.131 0.230699 UV 0.927230 0.683700 Normal  0.778919 -0.627125 0
+				VertexExt -0.0671453 1.131 0.230699 UV 0.927230 0.683700 Normal  0.956541 -0.291598 0
+				VertexExt 0.00386693 1.2192 0.126004 UV 0.000000 0.999999 Normal  0.0388775 -0.777039 -0.628251
+				VertexExt 0.00386693 1.2192 0.126004 UV 0.493654 0.999500 Normal  -0.25736 0.966316 0
+				VertexExt 0.00386693 1.2192 0.126004 UV 0.999495 0.999500 Normal  0.778919 -0.627125 0
+				VertexExt -0.0695188 1.19965 0.145637 UV 0.000000 0.999999 Normal  0.0217848 -0.777676 -0.628288
+				VertexExt -0.0695188 1.19965 0.145637 UV 0.016514 0.940281 Normal  -0.606544 0.79505 0
+				VertexExt -0.0695188 1.19965 0.145637 UV 0.613914 0.940281 Normal  -0.25736 0.966316 0
+				VertexExt -0.169717 1.12321 0.239578 UV 0.000000 0.999999 Normal  -0.00362815 -0.688311 -0.725406
+				VertexExt -0.169717 1.12321 0.239578 UV 0.079150 0.656919 Normal  -0.811816 0.583914 0
+				VertexExt -0.169717 1.12321 0.239578 UV 0.079150 0.656919 Normal  -0.606544 0.79505 0
+				VertexExt -0.238214 1.02798 0.317404 UV 0.000000 0.999999 Normal  0.0795154 -0.28893 -0.954042
+				VertexExt -0.238214 1.02798 0.317404 UV 0.157182 0.422164 Normal  -0.972212 0.2341 0
+				VertexExt -0.238214 1.02798 0.317404 UV 0.157182 0.422164 Normal  -0.811816 0.583914 0
+				VertexExt -0.304813 0.751394 0.355595 UV 0.000000 0.999999 Normal  0.00935116 -0.0295875 -0.999518
+				VertexExt -0.304813 0.751394 0.355595 UV 0.383812 0.306965 Normal  -1 -2.56024e-005 0
+				VertexExt -0.304813 0.751394 0.355595 UV 0.383812 0.306965 Normal  -0.972212 0.2341 0
+				VertexExt -0.304794 6.97254e-006 0.355595 UV 0.999493 0.306965 Normal  -1 -2.56024e-005 0
+				VertexExt -0.304794 6.97254e-006 0.355595 UV 0.000000 0.999999 Normal  0 0 -1
+				VertexExt 0.3048 -2.46558e-006 0.457195 UV 0.999495 0.999500 Normal  0 0 1
+				VertexExt 0.3048 -2.46558e-006 0.457195 UV 0.000500 0.000500 Normal  1 -3.75919e-006 0
+				VertexExt 0.304802 0.609603 0.457195 UV 0.999501 0.000532 Normal  0.346899 0.937902 0
+				VertexExt 0.304802 0.609603 0.457195 UV 0.999501 0.000532 Normal  0 0 1
+				VertexExt 0.304802 0.609603 0.457195 UV 0.500005 0.000500 Normal  1 -3.75919e-006 0
+				VertexExt 0.153495 0.665542 0.457195 UV 0.248387 0.907857 Normal  0 0 1
+				VertexExt 0.153495 0.665542 0.457195 UV 0.545841 0.000500 Normal  0.524634 0.851328 0
+				VertexExt 0.153495 0.665542 0.457195 UV 0.248453 0.000500 Normal  0.346767 0.937952 0
+				VertexExt 0.0425526 0.73391 0.457195 UV 0.430208 0.795811 Normal  0 0 1
+				VertexExt 0.0425526 0.73391 0.457195 UV 0.601862 0.000500 Normal  0.762517 0.646969 0
+				VertexExt 0.0425526 0.73391 0.457195 UV 0.601862 0.000500 Normal  0.524634 0.851328 0
+				VertexExt -0.0425973 0.834268 0.457195 UV 0.569759 0.631340 Normal  -0.111977 0.0162111 0.993579
+				VertexExt -0.0425973 0.834268 0.457195 UV 0.684094 0.000500 Normal  0.943886 0.330272 0
+				VertexExt -0.0425973 0.834268 0.457195 UV 0.684094 0.000500 Normal  0.762517 0.646969 0
+				VertexExt -0.0769392 0.932414 0.457195 UV 0.626042 0.470493 Normal  -0.133056 0.165945 0.977117
+				VertexExt -0.0769392 0.932414 0.457195 UV 0.764514 0.000500 Normal  0.988105 0.153778 0
+				VertexExt -0.0769392 0.932414 0.457195 UV 0.764514 0.000500 Normal  0.943886 0.330272 0
+				VertexExt -0.094089 1.04261 0.407354 UV 0.654148 0.289897 Normal  0.0157095 0.568991 0.822194
+				VertexExt -0.094089 1.04261 0.407354 UV 0.854808 0.150839 Normal  0.956541 -0.291598 0
+				VertexExt -0.094089 1.04261 0.407354 UV 0.854808 0.150839 Normal  0.988105 0.153778 0
+				VertexExt -0.0671453 1.131 0.332299 UV 0.609990 0.145047 Normal  -0.00879044 0.736267 0.676635
+				VertexExt -0.0671453 1.131 0.332299 UV 0.927230 0.377234 Normal  0.778919 -0.627125 0
+				VertexExt -0.0671453 1.131 0.332299 UV 0.927230 0.377234 Normal  0.956541 -0.291598 0
+				VertexExt 0.00386694 1.2192 0.227604 UV 0.493609 0.000500 Normal  -0.0388773 0.777039 0.628251
+				VertexExt 0.00386694 1.2192 0.227604 UV 0.493654 0.693035 Normal  -0.25736 0.966316 0
+				VertexExt 0.00386694 1.2192 0.227604 UV 0.999500 0.693035 Normal  0.778919 -0.627125 0
+				VertexExt -0.0695188 1.19965 0.247237 UV 0.613880 0.032531 Normal  -0.0217846 0.777676 0.628288
+				VertexExt -0.0695188 1.19965 0.247237 UV 0.016514 0.633815 Normal  -0.606544 0.79505 0
+				VertexExt -0.0695188 1.19965 0.247237 UV 0.613914 0.633815 Normal  -0.25736 0.966316 0
+				VertexExt -0.169717 1.12321 0.341178 UV 0.778093 0.157806 Normal  0.00362816 0.688311 0.725406
+				VertexExt -0.169717 1.12321 0.341178 UV 0.079150 0.350453 Normal  -0.811816 0.583914 0
+				VertexExt -0.169717 1.12321 0.341178 UV 0.079150 0.350453 Normal  -0.606544 0.79505 0
+				VertexExt -0.238214 1.02798 0.419004 UV 0.890352 0.313877 Normal  -0.0795154 0.28893 0.954042
+				VertexExt -0.238214 1.02798 0.419004 UV 0.157182 0.115698 Normal  -0.972212 0.2341 0
+				VertexExt -0.238214 1.02798 0.419004 UV 0.157182 0.115698 Normal  -0.811816 0.583914 0
+				VertexExt -0.304813 0.751394 0.457195 UV 0.383812 0.000500 Normal  -1 -2.56024e-005 0
+				VertexExt -0.304813 0.751394 0.457195 UV 0.999500 0.767158 Normal  -0.00779064 0.02465 0.999666
+				VertexExt -0.304813 0.751394 0.457195 UV 0.383812 0.000500 Normal  -0.972212 0.2341 0
+				VertexExt -0.304794 6.9786e-006 0.457195 UV 0.000525 0.999485 Normal  0 0 1
+				VertexExt -0.304794 6.9786e-006 0.457195 UV 0.999493 0.000500 Normal  -1 -2.56024e-005 0
+				VertexExt 0.304748 0.609623 0.355595 UV 0.000588 0.306965 Normal  0.346748 0.937958 0
+				VertexExt 0.304748 0.609623 0.355595 UV 0.000000 0.999999 Normal  0 0 -1
+				VertexExt 0.304748 0.609623 0.355595 UV 0.000000 0.999999 Normal  0.346748 0.937958 0
+				VertexExt 0.304748 0.609623 0.355631 UV 0.000588 0.306857 Normal  0.346748 0.937958 0
+				VertexExt 0.304748 0.609623 0.355631 UV 0.000000 0.999999 Normal  0.346748 0.937958 0
+				VertexExt 0.304748 0.609623 0.457195 UV 0.000500 0.999500 Normal  0 0 1
+				VertexExt 0.304748 0.609623 0.457195 UV 0.999361 0.000500 Normal  0.346798 0.93794 0
+				VertexExt 0.304748 0.609623 0.457195 UV 0.999361 0.000500 Normal  0 0 1
+				VertexExt 0.304748 0.609623 0.457195 UV 0.000588 0.000500 Normal  0.346798 0.93794 0
+				VertexExt -0.304809 0.609623 0.355595 UV 0.000000 0.999999 Normal  0 0 -1
+				VertexExt -0.304809 0.609623 0.355595 UV 0.499979 0.306965 Normal  -1 -2.56024e-005 0
+				VertexExt -0.304809 0.609623 0.374764 UV 0.499979 0.249142 Normal  -1 -2.56024e-005 0
+				VertexExt -0.304809 0.609623 0.457195 UV 0.000500 0.000500 Normal  0 0 1
+				VertexExt -0.304809 0.609623 0.457195 UV 0.999495 0.999500 Normal  0 0 1
+				VertexExt -0.304809 0.609623 0.457195 UV 0.499979 0.000500 Normal  -1 -2.56024e-005 0
+				VertexExt 0.304716 0.609623 0.355595 UV 0.000000 0.999999 Normal  0 0 -1
+				VertexExt 0.304716 0.609623 0.457195 UV 0.999361 0.000500 Normal  0 0 1
+				VertexExt 0.304716 0.609623 0.457195 UV 0.000525 0.999485 Normal  0 0 1
+				Color 1.000000 1.000000 1.000000
+				Surface 0.100000 0.500000 0.000000
+				Opacity 1.000000
+				LightSampling Vertex
+				GeometrySampling Solid
+				TextureModes ForeShorten
+				Texture fabric_021b_blk_leatherchair.cmp
+
+				Triangle 2 5 45 
+				Triangle 2 45 42 
+				Triangle 4 83 85 
+				Triangle 84 48 89 
+				Triangle 8 11 51 
+				Triangle 8 51 47 
+				Triangle 10 14 54 
+				Triangle 10 54 50 
+				Triangle 13 17 57 
+				Triangle 13 57 53 
+				Triangle 16 20 60 
+				Triangle 16 60 56 
+				Triangle 19 23 63 
+				Triangle 19 63 59 
+				Triangle 22 26 66 
+				Triangle 22 66 62 
+				Triangle 25 29 69 
+				Triangle 25 69 65 
+				Triangle 28 32 72 
+				Triangle 28 72 68 
+				Triangle 31 35 75 
+				Triangle 31 75 71 
+				Triangle 34 38 78 
+				Triangle 34 78 74 
+				Triangle 37 91 92 
+				Triangle 92 80 95 
+				Color 1.000000 1.000000 1.000000
+				Surface 0.100000 0.500000 0.000000
+				Opacity 1.000000
+				LightSampling Vertex
+				GeometrySampling Solid
+				TextureModes ForeShorten
+				Texture fabric_021a_blk_leatherchair.cmp
+
+				Triangle 21 27 24 
+				Triangle 21 30 27 
+				Triangle 18 30 21 
+				Triangle 18 33 30 
+				Triangle 40 3 1 
+				Triangle 36 96 90 
+				Triangle 96 82 3 
+				Triangle 36 9 7 
+				Triangle 36 12 9 
+				Triangle 33 12 36 
+				Triangle 33 15 12 
+				Triangle 18 15 33 
+				Triangle 61 64 67 
+				Triangle 61 67 70 
+				Triangle 58 61 70 
+				Triangle 58 70 73 
+				Color 1.000000 0.364964 0.364964
+				Surface 0.179083 0.537255 0.000000
+				Opacity 1.000000
+				LightSampling Vertex
+				GeometrySampling Solid
+				TextureModes ForeShorten
+				Texture fabric_021_blk_leatherchair.cmp
+
+				Triangle 79 41 44 
+				Color 1.000000 1.000000 1.000000
+				Surface 0.100000 0.500000 0.000000
+				Opacity 1.000000
+				LightSampling Vertex
+				GeometrySampling Solid
+				TextureModes ForeShorten
+				Texture fabric_021a_blk_leatherchair.cmp
+
+				Triangle 77 94 98 
+				Color 1.000000 0.364964 0.364964
+				Surface 0.179083 0.537255 0.000000
+				Opacity 1.000000
+				LightSampling Vertex
+				GeometrySampling Solid
+				TextureModes ForeShorten
+				Texture fabric_021_blk_leatherchair.cmp
+
+				Triangle 97 44 88 
+				Color 1.000000 1.000000 1.000000
+				Surface 0.100000 0.500000 0.000000
+				Opacity 1.000000
+				LightSampling Vertex
+				GeometrySampling Solid
+				TextureModes ForeShorten
+				Texture fabric_021a_blk_leatherchair.cmp
+
+				Triangle 77 46 49 
+				Triangle 77 49 52 
+				Triangle 73 77 52 
+				Triangle 73 52 55 
+				Triangle 58 73 55 
+				Color 1.000000 1.000000 1.000000
+				Surface 0.100000 0.500000 0.000000
+				Opacity 1.000000
+				LightSampling Vertex
+				GeometrySampling Solid
+				TextureModes ForeShorten
+				Texture fabric_021b_blk_leatherchair.cmp
+
+				Triangle 84 81 48 
+				Triangle 81 6 48 
+				Triangle 4 85 87 
+				Triangle 4 87 43 
+				Triangle 92 91 80 
+				Triangle 91 39 80 
+				Triangle 37 92 95 
+				Triangle 37 95 76 
+				Color 1.000000 1.000000 1.000000
+				Surface 0.100000 0.500000 0.000000
+				Opacity 1.000000
+				LightSampling Vertex
+				GeometrySampling Solid
+				TextureModes ForeShorten
+				Texture fabric_021a_blk_leatherchair.cmp
+
+				Triangle 90 96 40 
+				Triangle 96 3 40 
+				Triangle 96 7 82 
+				Triangle 36 7 96 
+				Color 1.000000 0.364964 0.364964
+				Surface 0.179083 0.537255 0.000000
+				Opacity 1.000000
+				LightSampling Vertex
+				GeometrySampling Solid
+				TextureModes ForeShorten
+				Texture fabric_021_blk_leatherchair.cmp
+
+				Triangle 97 93 44 
+				Triangle 93 79 44 
+				Color 1.000000 1.000000 1.000000
+				Surface 0.100000 0.500000 0.000000
+				Opacity 1.000000
+				LightSampling Vertex
+				GeometrySampling Solid
+				TextureModes ForeShorten
+				Texture fabric_021a_blk_leatherchair.cmp
+
+				Triangle 77 98 86 
+				Triangle 77 86 46 
+			JointTransformEnd
+			TransformEnd
+			ClumpEnd
+			ClumpBegin
+			TransformBegin
+			Identity
+			JointTransformBegin
+			IdentityJoint
+				AddHint Editable
+				Tag 2
+				VertexExt 0.3048 -2.4244e-006 -0.355601 UV 0.000000 0.999999 Normal  0 0 1
+				VertexExt 0.3048 -2.4244e-006 -0.355601 UV 0.000500 0.306965 Normal  1 -3.75919e-006 0
+				VertexExt 0.304802 0.609603 -0.355601 UV 0.000000 0.999999 Normal  0 0 1
+				VertexExt 0.304802 0.609603 -0.355601 UV 0.000000 0.999999 Normal  0.346786 0.937944 0
+				VertexExt 0.304802 0.609603 -0.355601 UV 0.500005 0.306965 Normal  1 -3.75919e-006 0
+				VertexExt 0.153495 0.665542 -0.355601 UV 0.248453 0.306965 Normal  0.346766 0.937952 0
+				VertexExt 0.153495 0.665542 -0.355601 UV 0.000000 0.999999 Normal  0 0 1
+				VertexExt 0.153495 0.665542 -0.355601 UV 0.545841 0.306965 Normal  0.524634 0.851328 0
+				VertexExt 0.0425526 0.73391 -0.355601 UV 0.000000 0.999999 Normal  0 0 1
+				VertexExt 0.0425526 0.73391 -0.355601 UV 0.601862 0.306965 Normal  0.762517 0.646969 0
+				VertexExt 0.0425526 0.73391 -0.355601 UV 0.601862 0.306965 Normal  0.524634 0.851328 0
+				VertexExt -0.0425974 0.834268 -0.355601 UV 0.000000 0.999999 Normal  0.111977 -0.0162112 0.993579
+				VertexExt -0.0425974 0.834268 -0.355601 UV 0.684094 0.306965 Normal  0.943886 0.330272 0
+				VertexExt -0.0425974 0.834268 -0.355601 UV 0.684094 0.306965 Normal  0.762517 0.646969 0
+				VertexExt -0.0769393 0.932414 -0.355601 UV 0.000000 0.999999 Normal  0.133056 -0.165945 0.977117
+				VertexExt -0.0769393 0.932414 -0.355601 UV 0.764514 0.306965 Normal  0.988105 0.153778 0
+				VertexExt -0.0769393 0.932414 -0.355601 UV 0.764514 0.306965 Normal  0.943886 0.330272 0
+				VertexExt -0.0940891 1.04261 -0.30576 UV 0.000000 0.999999 Normal  -0.0157094 -0.568991 0.822194
+				VertexExt -0.0940891 1.04261 -0.30576 UV 0.854808 0.457305 Normal  0.956541 -0.291598 0
+				VertexExt -0.0940891 1.04261 -0.30576 UV 0.854808 0.457305 Normal  0.988105 0.153778 0
+				VertexExt -0.0671453 1.131 -0.230705 UV 0.000000 0.999999 Normal  0.00879059 -0.736267 0.676634
+				VertexExt -0.0671453 1.131 -0.230705 UV 0.927230 0.683700 Normal  0.778919 -0.627125 0
+				VertexExt -0.0671453 1.131 -0.230705 UV 0.927230 0.683700 Normal  0.956541 -0.291598 0
+				VertexExt 0.00386692 1.2192 -0.12601 UV 0.000000 0.999999 Normal  0.0388776 -0.777039 0.628251
+				VertexExt 0.00386692 1.2192 -0.12601 UV 0.493654 0.999500 Normal  -0.25736 0.966316 0
+				VertexExt 0.00386692 1.2192 -0.12601 UV 0.999495 0.999500 Normal  0.778919 -0.627125 0
+				VertexExt -0.0695188 1.19965 -0.145643 UV 0.000000 0.999999 Normal  0.0217848 -0.777676 0.628288
+				VertexExt -0.0695188 1.19965 -0.145643 UV 0.016514 0.940281 Normal  -0.606544 0.79505 0
+				VertexExt -0.0695188 1.19965 -0.145643 UV 0.613914 0.940281 Normal  -0.25736 0.966316 0
+				VertexExt -0.169717 1.12321 -0.239584 UV 0.000000 0.999999 Normal  -0.00362809 -0.688311 0.725406
+				VertexExt -0.169717 1.12321 -0.239584 UV 0.079150 0.656919 Normal  -0.811816 0.583914 0
+				VertexExt -0.169717 1.12321 -0.239584 UV 0.079150 0.656919 Normal  -0.606544 0.79505 0
+				VertexExt -0.238214 1.02798 -0.31741 UV 0.000000 0.999999 Normal  0.0795155 -0.28893 0.954042
+				VertexExt -0.238214 1.02798 -0.31741 UV 0.157182 0.422164 Normal  -0.972212 0.2341 0
+				VertexExt -0.238214 1.02798 -0.31741 UV 0.157182 0.422164 Normal  -0.811816 0.583914 0
+				VertexExt -0.304813 0.751394 -0.355601 UV 0.000000 0.999999 Normal  0.00935125 -0.0295876 0.999518
+				VertexExt -0.304813 0.751394 -0.355601 UV 0.383812 0.306965 Normal  -1 -2.56024e-005 0
+				VertexExt -0.304813 0.751394 -0.355601 UV 0.383812 0.306965 Normal  -0.972212 0.2341 0
+				VertexExt -0.304794 7.01978e-006 -0.355601 UV 0.999493 0.306965 Normal  -1 -2.56024e-005 0
+				VertexExt -0.304794 7.01978e-006 -0.355601 UV 0.000000 0.999999 Normal  0 0 1
+				VertexExt 0.3048 -2.41229e-006 -0.457201 UV 0.999495 0.999500 Normal  0 0 -1
+				VertexExt 0.3048 -2.41229e-006 -0.457201 UV 0.000500 0.000500 Normal  1 -3.75919e-006 0
+				VertexExt 0.304802 0.609603 -0.457201 UV 0.999501 0.000532 Normal  0.346899 0.937903 0
+				VertexExt 0.304802 0.609603 -0.457201 UV 0.999501 0.000532 Normal  0 0 -1
+				VertexExt 0.304802 0.609603 -0.457201 UV 0.500005 0.000500 Normal  1 -3.75919e-006 0
+				VertexExt 0.153495 0.665542 -0.457201 UV 0.248387 0.907857 Normal  0 0 -1
+				VertexExt 0.153495 0.665542 -0.457201 UV 0.545841 0.000500 Normal  0.524634 0.851328 0
+				VertexExt 0.153495 0.665542 -0.457201 UV 0.248453 0.000500 Normal  0.346766 0.937952 0
+				VertexExt 0.0425526 0.733911 -0.457201 UV 0.430208 0.795811 Normal  0 0 -1
+				VertexExt 0.0425526 0.733911 -0.457201 UV 0.601862 0.000500 Normal  0.762517 0.646969 0
+				VertexExt 0.0425526 0.733911 -0.457201 UV 0.601862 0.000500 Normal  0.524634 0.851328 0
+				VertexExt -0.0425974 0.834268 -0.457201 UV 0.569759 0.631340 Normal  -0.111977 0.0162112 -0.993579
+				VertexExt -0.0425974 0.834268 -0.457201 UV 0.684094 0.000500 Normal  0.943886 0.330272 0
+				VertexExt -0.0425974 0.834268 -0.457201 UV 0.684094 0.000500 Normal  0.762517 0.646969 0
+				VertexExt -0.0769393 0.932414 -0.457201 UV 0.626042 0.470493 Normal  -0.133056 0.165945 -0.977117
+				VertexExt -0.0769393 0.932414 -0.457201 UV 0.764514 0.000500 Normal  0.988105 0.153778 0
+				VertexExt -0.0769393 0.932414 -0.457201 UV 0.764514 0.000500 Normal  0.943886 0.330272 0
+				VertexExt -0.0940891 1.04261 -0.40736 UV 0.654148 0.289897 Normal  0.0157094 0.568991 -0.822194
+				VertexExt -0.0940891 1.04261 -0.40736 UV 0.854808 0.150839 Normal  0.956541 -0.291598 0
+				VertexExt -0.0940891 1.04261 -0.40736 UV 0.854808 0.150839 Normal  0.988105 0.153778 0
+				VertexExt -0.0671453 1.131 -0.332305 UV 0.609990 0.145047 Normal  -0.0087905 0.736267 -0.676634
+				VertexExt -0.0671453 1.131 -0.332305 UV 0.927230 0.377234 Normal  0.778919 -0.627125 0
+				VertexExt -0.0671453 1.131 -0.332305 UV 0.927230 0.377234 Normal  0.956541 -0.291598 0
+				VertexExt 0.00386691 1.2192 -0.22761 UV 0.493609 0.000500 Normal  -0.0388774 0.777039 -0.628251
+				VertexExt 0.00386691 1.2192 -0.22761 UV 0.493654 0.693035 Normal  -0.25736 0.966316 0
+				VertexExt 0.00386691 1.2192 -0.22761 UV 0.999500 0.693035 Normal  0.778919 -0.627125 0
+				VertexExt -0.0695188 1.19965 -0.247243 UV 0.613880 0.032531 Normal  -0.0217847 0.777676 -0.628288
+				VertexExt -0.0695188 1.19965 -0.247243 UV 0.016514 0.633815 Normal  -0.606544 0.79505 0
+				VertexExt -0.0695188 1.19965 -0.247243 UV 0.613914 0.633815 Normal  -0.25736 0.966316 0
+				VertexExt -0.169717 1.12321 -0.341184 UV 0.778093 0.157806 Normal  0.0036281 0.688311 -0.725406
+				VertexExt -0.169717 1.12321 -0.341184 UV 0.079150 0.350453 Normal  -0.811816 0.583914 0
+				VertexExt -0.169717 1.12321 -0.341184 UV 0.079150 0.350453 Normal  -0.606544 0.79505 0
+				VertexExt -0.238214 1.02798 -0.41901 UV 0.890352 0.313877 Normal  -0.0795155 0.28893 -0.954042
+				VertexExt -0.238214 1.02798 -0.41901 UV 0.157182 0.115698 Normal  -0.972212 0.2341 0
+				VertexExt -0.238214 1.02798 -0.41901 UV 0.157182 0.115698 Normal  -0.811816 0.583914 0
+				VertexExt -0.304813 0.751394 -0.457201 UV 0.383812 0.000500 Normal  -1 -2.56024e-005 0
+				VertexExt -0.304813 0.751394 -0.457201 UV 0.999500 0.767158 Normal  -0.00779073 0.0246501 -0.999666
+				VertexExt -0.304813 0.751394 -0.457201 UV 0.383812 0.000500 Normal  -0.972212 0.2341 0
+				VertexExt -0.304794 7.03189e-006 -0.457201 UV 0.000525 0.999485 Normal  0 0 -1
+				VertexExt -0.304794 7.03189e-006 -0.457201 UV 0.999493 0.000500 Normal  -1 -2.56024e-005 0
+				VertexExt 0.304748 0.609623 -0.355601 UV 0.000588 0.306965 Normal  0.346748 0.937958 0
+				VertexExt 0.304748 0.609623 -0.355601 UV 0.000000 0.999999 Normal  0 0 1
+				VertexExt 0.304748 0.609623 -0.355601 UV 0.000000 0.999999 Normal  0.346748 0.937958 0
+				VertexExt 0.304748 0.609623 -0.355637 UV 0.000588 0.306857 Normal  0.346748 0.937958 0
+				VertexExt 0.304748 0.609623 -0.355637 UV 0.000000 0.999999 Normal  0.346748 0.937958 0
+				VertexExt 0.304748 0.609623 -0.457201 UV 0.000500 0.999500 Normal  0 0 -1
+				VertexExt 0.304748 0.609623 -0.457201 UV 0.999361 0.000500 Normal  0.346798 0.93794 0
+				VertexExt 0.304748 0.609623 -0.457201 UV 0.999361 0.000500 Normal  0 0 -1
+				VertexExt 0.304748 0.609623 -0.457201 UV 0.000588 0.000500 Normal  0.346798 0.93794 0
+				VertexExt -0.304809 0.609623 -0.355601 UV 0.000000 0.999999 Normal  0 0 1
+				VertexExt -0.304809 0.609623 -0.355601 UV 0.499979 0.306965 Normal  -1 -2.56024e-005 0
+				VertexExt -0.304809 0.609623 -0.37477 UV 0.499979 0.249142 Normal  -1 -2.56024e-005 0
+				VertexExt -0.304809 0.609623 -0.457201 UV 0.000500 0.000500 Normal  0 0 -1
+				VertexExt -0.304809 0.609623 -0.457201 UV 0.999495 0.999500 Normal  0 0 -1
+				VertexExt -0.304809 0.609623 -0.457201 UV 0.499979 0.000500 Normal  -1 -2.56024e-005 0
+				VertexExt 0.304716 0.609623 -0.355601 UV 0.000000 0.999999 Normal  0 0 1
+				VertexExt 0.304716 0.609623 -0.457201 UV 0.999361 0.000500 Normal  0 0 -1
+				VertexExt 0.304716 0.609623 -0.457201 UV 0.000525 0.999485 Normal  0 0 -1
+				Color 1.000000 1.000000 1.000000
+				Surface 0.100000 0.500000 0.000000
+				Opacity 1.000000
+				LightSampling Vertex
+				GeometrySampling Solid
+				TextureModes ForeShorten
+				Texture fabric_021b_blk_leatherchair.cmp
+
+				Triangle 45 5 2 
+				Triangle 42 45 2 
+				Triangle 85 83 4 
+				Triangle 89 48 84 
+				Triangle 51 11 8 
+				Triangle 47 51 8 
+				Triangle 54 14 10 
+				Triangle 50 54 10 
+				Triangle 57 17 13 
+				Triangle 53 57 13 
+				Triangle 60 20 16 
+				Triangle 56 60 16 
+				Triangle 63 23 19 
+				Triangle 59 63 19 
+				Triangle 66 26 22 
+				Triangle 62 66 22 
+				Triangle 69 29 25 
+				Triangle 65 69 25 
+				Triangle 72 32 28 
+				Triangle 68 72 28 
+				Triangle 75 35 31 
+				Triangle 71 75 31 
+				Triangle 78 38 34 
+				Triangle 74 78 34 
+				Triangle 92 91 37 
+				Triangle 95 80 92 
+				Color 1.000000 1.000000 1.000000
+				Surface 0.100000 0.500000 0.000000
+				Opacity 1.000000
+				LightSampling Vertex
+				GeometrySampling Solid
+				TextureModes ForeShorten
+				Texture fabric_021a_blk_leatherchair.cmp
+
+				Triangle 24 27 21 
+				Triangle 27 30 21 
+				Triangle 21 30 18 
+				Triangle 30 33 18 
+				Triangle 1 3 40 
+				Triangle 90 96 36 
+				Triangle 3 82 96 
+				Triangle 7 9 36 
+				Triangle 9 12 36 
+				Triangle 36 12 33 
+				Triangle 12 15 33 
+				Triangle 33 15 18 
+				Triangle 67 64 61 
+				Triangle 70 67 61 
+				Triangle 70 61 58 
+				Triangle 73 70 58 
+				Color 1.000000 0.364964 0.364964
+				Surface 0.179083 0.537255 0.000000
+				Opacity 1.000000
+				LightSampling Vertex
+				GeometrySampling Solid
+				TextureModes ForeShorten
+				Texture fabric_021_blk_leatherchair.cmp
+
+				Triangle 44 41 79 
+				Color 1.000000 1.000000 1.000000
+				Surface 0.100000 0.500000 0.000000
+				Opacity 1.000000
+				LightSampling Vertex
+				GeometrySampling Solid
+				TextureModes ForeShorten
+				Texture fabric_021a_blk_leatherchair.cmp
+
+				Triangle 98 94 77 
+				Color 1.000000 0.364964 0.364964
+				Surface 0.179083 0.537255 0.000000
+				Opacity 1.000000
+				LightSampling Vertex
+				GeometrySampling Solid
+				TextureModes ForeShorten
+				Texture fabric_021_blk_leatherchair.cmp
+
+				Triangle 88 44 97 
+				Color 1.000000 1.000000 1.000000
+				Surface 0.100000 0.500000 0.000000
+				Opacity 1.000000
+				LightSampling Vertex
+				GeometrySampling Solid
+				TextureModes ForeShorten
+				Texture fabric_021a_blk_leatherchair.cmp
+
+				Triangle 49 46 77 
+				Triangle 52 49 77 
+				Triangle 52 77 73 
+				Triangle 55 52 73 
+				Triangle 55 73 58 
+				Color 1.000000 1.000000 1.000000
+				Surface 0.100000 0.500000 0.000000
+				Opacity 1.000000
+				LightSampling Vertex
+				GeometrySampling Solid
+				TextureModes ForeShorten
+				Texture fabric_021b_blk_leatherchair.cmp
+
+				Triangle 48 81 84 
+				Triangle 48 6 81 
+				Triangle 87 85 4 
+				Triangle 43 87 4 
+				Triangle 80 91 92 
+				Triangle 80 39 91 
+				Triangle 95 92 37 
+				Triangle 76 95 37 
+				Color 1.000000 1.000000 1.000000
+				Surface 0.100000 0.500000 0.000000
+				Opacity 1.000000
+				LightSampling Vertex
+				GeometrySampling Solid
+				TextureModes ForeShorten
+				Texture fabric_021a_blk_leatherchair.cmp
+
+				Triangle 40 96 90 
+				Triangle 40 3 96 
+				Triangle 82 7 96 
+				Triangle 96 7 36 
+				Color 1.000000 0.364964 0.364964
+				Surface 0.179083 0.537255 0.000000
+				Opacity 1.000000
+				LightSampling Vertex
+				GeometrySampling Solid
+				TextureModes ForeShorten
+				Texture fabric_021_blk_leatherchair.cmp
+
+				Triangle 44 93 97 
+				Triangle 44 79 93 
+				Color 1.000000 1.000000 1.000000
+				Surface 0.100000 0.500000 0.000000
+				Opacity 1.000000
+				LightSampling Vertex
+				GeometrySampling Solid
+				TextureModes ForeShorten
+				Texture fabric_021a_blk_leatherchair.cmp
+
+				Triangle 86 98 77 
+				Triangle 46 86 77 
+			JointTransformEnd
+			TransformEnd
+			ClumpEnd
+			ClumpBegin
+			TransformBegin
+			Identity
+			JointTransformBegin
+			IdentityJoint
+				AddHint Editable
+				Tag 3
+				VertexExt -0.299805 0.457662 0.355603 UV 0.999500 0.999500 Normal  1 0 0
+				VertexExt -0.299805 0.751404 0.355583 UV 0.999472 0.614166 Normal  0.993032 -0.117842 0
+				VertexExt -0.233222 1.02798 0.317384 UV 0.945815 0.251348 Normal  0.879861 -0.475231 -6.00244e-006
+				VertexExt -0.16471 1.12322 0.239568 UV 0.836510 0.126412 Normal  0.681538 -0.731783 -6.02224e-006
+				VertexExt -0.0645063 1.19966 0.145639 UV 0.704571 0.026136 Normal  0.39135 -0.920242 1.75054e-005
+				VertexExt 0.00385757 1.2192 0.126006 UV 1.353986 0.000500 Normal  0.963929 0.26616 -2.08761e-005
+				VertexExt 0.00385757 1.2192 0.126006 UV 0.676993 0.000500 Normal  0.963929 0.26616 -2.08761e-005
+				VertexExt 0.00385757 1.21918 -0.12602 UV 0.645963 0.000516 Normal  0.963973 0.265998 -8.63848e-006
+				VertexExt 0.00385757 1.21918 -0.12602 UV 0.322982 0.000525 Normal  0.963973 0.265998 -8.63848e-006
+				VertexExt -0.0645063 1.19967 -0.145638 UV 0.295424 0.026131 Normal  0.503644 -0.863912 -9.44018e-006
+				VertexExt -0.16471 1.12322 -0.239579 UV 0.163470 0.126409 Normal  0.750618 -0.660737 -5.93473e-006
+				VertexExt -0.233222 1.02799 -0.317401 UV 0.054156 0.251333 Normal  0.934251 -0.356616 -2.88532e-006
+				VertexExt -0.299805 0.751385 -0.355599 UV 0.000500 0.614190 Normal  0.993032 -0.117842 0
+				VertexExt -0.299805 0.457688 -0.355599 UV 0.000500 0.999466 Normal  1 0 0
+				VertexExt -0.304805 -5.43458e-006 0.355603 UV 1.999000 0.999500 Normal  -1 0 0
+				VertexExt -0.304805 0.751404 0.355583 UV 1.998944 0.383808 Normal  -0.993033 0.117836 -3.11725e-006
+				VertexExt -0.238222 1.02798 0.317384 UV 1.891630 0.157185 Normal  -0.879861 0.475231 6.00058e-006
+				VertexExt -0.16971 1.12322 0.239568 UV 1.673020 0.079147 Normal  -0.681538 0.731783 6.02224e-006
+				VertexExt -0.0695063 1.19966 0.145639 UV 1.409142 0.016512 Normal  -0.380129 0.924933 -1.76385e-005
+				VertexExt -0.0695063 1.19967 -0.145638 UV 0.590849 0.016509 Normal  -0.498514 0.866882 9.47698e-006
+				VertexExt -0.16971 1.12322 -0.239579 UV 0.326940 0.079145 Normal  -0.750618 0.660737 5.93473e-006
+				VertexExt -0.238222 1.02799 -0.317401 UV 0.108313 0.157175 Normal  -0.934251 0.356616 2.88342e-006
+				VertexExt -0.304805 0.751385 -0.355599 UV 0.001000 0.383823 Normal  -0.993033 0.117836 -3.11725e-006
+				VertexExt -0.304805 2.06934e-005 -0.355599 UV 0.001000 0.999479 Normal  -1 0 0
+				Color 1.000000 1.000000 1.000000
+				Surface 0.100000 0.500000 0.000000
+				Opacity 1.000000
+				LightSampling Vertex
+				GeometrySampling Solid
+				TextureModes ForeShorten
+				Texture fabric_021c_blk_leatherchair.cmp
+
+				Triangle 14 2 1 
+				Triangle 13 2 14 
+				Triangle 12 2 13 
+				Triangle 12 3 2 
+				Triangle 11 3 12 
+				Triangle 11 4 3 
+				Triangle 10 4 11 
+				Triangle 10 5 4 
+				Triangle 9 5 10 
+				Triangle 7 5 9 
+				Color 0.489209 0.352518 1.000000
+				Surface 0.181698 0.545098 0.000000
+				Opacity 1.000000
+				LightSampling Vertex
+				GeometrySampling Solid
+				TextureModes ForeShorten
+				Texture fabric_021b_blk_leatherchair.cmp
+
+				Triangle 24 15 16 
+				Triangle 23 24 16 
+				Triangle 22 23 16 
+				Triangle 22 16 17 
+				Triangle 21 22 17 
+				Triangle 21 17 18 
+				Triangle 20 21 18 
+				Triangle 20 18 19 
+				Triangle 8 20 19 
+				Triangle 6 8 19 
+			JointTransformEnd
+			TransformEnd
+			ClumpEnd
+			ClumpBegin
+			TransformBegin
+			Identity
+			JointTransformBegin
+			IdentityJoint
+				AddHint Editable
+				Tag 4
+				VertexExt 0.304801 -4.24326e-006 -0.35559 UV 0.000500 0.999501 Normal  1 1.07549e-005 0
+				VertexExt 0.304796 0.457216 -0.35559 UV 0.000508 0.999501 Normal  0.000783064 1 0
+				VertexExt 0.304796 0.457216 -0.35559 UV 0.998467 0.999501 Normal  1 1.07549e-005 0
+				VertexExt -0.299803 0.45769 -0.35559 UV 0.999500 0.999501 Normal  0.000783064 1 0
+				VertexExt 0.304801 -4.20087e-006 0.35561 UV 0.000500 0.000499 Normal  1 1.07549e-005 0
+				VertexExt 0.304796 0.457216 0.35561 UV 0.000508 0.000499 Normal  0.000783064 1 0
+				VertexExt 0.304796 0.457216 0.35561 UV 0.998467 0.000499 Normal  1 1.07549e-005 0
+				VertexExt -0.299803 0.45769 0.35561 UV 0.999500 0.000499 Normal  0.000783064 1 0
+				Color 0.361702 1.000000 0.319149
+				Surface 0.184312 0.552941 0.000000
+				Opacity 1.000000
+				LightSampling Vertex
+				GeometrySampling Solid
+				TextureModes ForeShorten
+				Texture fabric_021_blk_leatherchair.cmp
+
+				Triangle 1 3 7 
+				Triangle 1 7 5 
+				Triangle 2 4 8 
+				Triangle 2 8 6 
+			JointTransformEnd
+			TransformEnd
+			ClumpEnd
+		JointTransformEnd
+		TransformEnd
+		ClumpEnd
+	JointTransformEnd
+	TransformEnd
+	ClumpEnd
+ModelEnd

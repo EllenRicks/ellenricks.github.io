@@ -1,0 +1,173 @@
+# Output from 3DSMax RenderWare File Export plug-in V1.0
+ModelBegin
+    ClumpBegin
+        # Line01
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 1
+                Hints NULL
+                Vertex  13.065632  0.000000 -13.065627 UV  2.120700  0.001499
+                Vertex  5.411963  0.000000 -13.065630 UV  0.879301  0.001498
+                Vertex  0.000001  0.000000 -7.653668 UV  0.001499  1.242897
+                Vertex  0.000000  0.000000  0.000000 UV  0.001499  2.998500
+                Vertex  18.477591  0.000000  0.000001 UV  2.998501  2.998501
+                Vertex  18.477592  0.000000 -7.653666 UV  2.998501  1.242898
+                Vertex  18.477591  0.000000  0.000001 UV  2.998501  2.998501
+                Vertex  10.870510  0.000000 -8.165143 UV  1.764659  1.125575
+                Vertex  11.529520  0.000000 -6.574152 UV  1.871548  1.490518
+                Vertex  11.529520  0.000000 -6.574152 UV  1.871548  1.490518
+                Vertex  10.870510  0.000000 -8.165143 UV  1.764659  1.125575
+                Vertex  9.279520  0.000000 -8.824153 UV  1.506606  0.974411
+                Vertex  9.279520  0.000000 -8.824153 UV  1.506606  0.974411
+                Vertex  7.688529  0.000000 -8.165143 UV  1.248552  1.125575
+                Vertex  7.688529  0.000000 -8.165143 UV  1.248552  1.125575
+                Vertex  7.029520  0.000000 -6.574152 UV  1.141663  1.490517
+                Vertex  7.029520  0.000000 -6.574152 UV  1.141663  1.490517
+                Vertex  7.688530  0.000000 -4.983162 UV  1.248552  1.855460
+                Vertex  7.688530  0.000000 -4.983162 UV  1.248552  1.855460
+                Vertex  9.279521  0.000000 -4.324153 UV  1.506605  2.006624
+                Vertex  9.279521  0.000000 -4.324153 UV  1.506605  2.006624
+                Vertex  10.870510  0.000000 -4.983163 UV  1.764659  1.855460
+                Vertex  10.870510  0.000000 -4.983163 UV  1.764659  1.855460
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture testflrx.cmp
+                
+                Triangle 4 5 7
+                Triangle 5 6 7
+                Triangle 1 8 6
+                Triangle 11 1 10
+                Triangle 1 2 8
+                Triangle 8 2 12
+                Triangle 2 1 11
+                Triangle 13 2 11
+                Triangle 2 3 12
+                Triangle 12 3 14
+                Triangle 3 2 13
+                Triangle 15 3 13
+                Triangle 3 4 14
+                Triangle 14 4 16
+                Triangle 4 3 15
+                Triangle 17 4 15
+                Triangle 4 18 16
+                Triangle 19 4 17
+                Triangle 20 18 4
+                Triangle 7 22 20
+                Triangle 21 5 4
+                Triangle 23 5 21
+                Triangle 7 9 22
+                Triangle 10 5 23
+                Triangle 9 7 8
+                Triangle 7 6 8
+                Triangle 6 5 1
+                Triangle 5 10 1
+                Triangle 4 7 20
+                Triangle 19 21 4
+                
+            ClumpEnd
+        TransformEnd
+        # Cylinder02
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 2
+                Hints NULL
+                Vertex  11.529517  0.000000 -6.574152 UV  7.000000  0.000500
+                Vertex  10.870507  0.000000 -8.165143 UV  6.000000  0.000499
+                Vertex  9.279517  0.000000 -8.824153 UV  5.000000  0.000500
+                Vertex  7.688528  0.000000 -8.165143 UV  4.000000  0.000500
+                Vertex  7.029518  0.000000 -6.574152 UV  3.000000  0.000501
+                Vertex  7.688528  0.000000 -4.983162 UV  2.000000  0.000501
+                Vertex  9.279517  0.000000 -4.324153 UV  1.000000  0.000501
+                Vertex  9.279517  0.000000 -4.324153 UV  9.000000  0.000501
+                Vertex  10.870507  0.000000 -4.983163 UV  8.000000  0.000500
+                Vertex  11.529517  0.300000 -6.574152 UV  7.000000  0.999499
+                Vertex  10.870507  0.300000 -8.165143 UV  6.000000  0.999499
+                Vertex  9.279517  0.300000 -8.824153 UV  5.000000  0.999499
+                Vertex  7.688528  0.300000 -8.165143 UV  4.000000  0.999500
+                Vertex  7.029518  0.300000 -6.574152 UV  3.000000  0.999500
+                Vertex  7.688528  0.300000 -4.983162 UV  2.000000  0.999501
+                Vertex  9.279517  0.300000 -4.324153 UV  1.000000  0.999500
+                Vertex  9.279517  0.300000 -4.324153 UV  1.000000  0.999500
+                Vertex  9.279517  0.300000 -4.324153 UV  9.000000  0.999500
+                Vertex  10.870507  0.300000 -4.983163 UV  8.000000  0.999500
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture metal1.cmp
+                
+                Triangle 1 11 10
+                Triangle 1 2 11
+                Triangle 2 12 11
+                Triangle 2 3 12
+                Triangle 3 13 12
+                Triangle 3 4 13
+                Triangle 4 14 13
+                Triangle 4 5 14
+                Triangle 5 15 14
+                Triangle 5 6 15
+                Triangle 6 16 15
+                Triangle 6 7 17
+                Triangle 8 19 18
+                Triangle 8 9 19
+                Triangle 9 10 19
+                Triangle 9 1 10
+                
+            ClumpEnd
+        TransformEnd
+        # top01
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 3
+                Hints NULL
+                Vertex  11.529517  0.300000 -6.574152 UV  0.999501  0.500000
+                Vertex  10.870507  0.300000 -8.165143 UV  0.853200  0.146800
+                Vertex  9.279517  0.300000 -8.824153 UV  0.500000  0.000499
+                Vertex  7.688528  0.300000 -8.165143 UV  0.146800  0.146800
+                Vertex  7.029518  0.300000 -6.574152 UV  0.000499  0.500000
+                Vertex  7.688528  0.300000 -4.983162 UV  0.146800  0.853200
+                Vertex  9.279517  0.300000 -4.324153 UV  0.500000  0.999501
+                Vertex  10.870507  0.300000 -4.983163 UV  0.853200  0.853200
+                Vertex  9.279517  0.300000 -6.574152 UV  0.500000  0.500000
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture testtop.cmp
+                
+                Triangle 9 1 2
+                Triangle 9 2 3
+                Triangle 9 3 4
+                Triangle 9 4 5
+                Triangle 9 5 6
+                Triangle 9 6 7
+                Triangle 9 7 8
+                Triangle 9 8 1
+                
+            ClumpEnd
+        TransformEnd
+    ClumpEnd
+ModelEnd

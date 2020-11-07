@@ -1,0 +1,223 @@
+# Output from 3DSMax RenderWare File Export plug-in V1.0
+ModelBegin
+    ClumpBegin
+        # door
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 1
+                Hints NULL
+                Vertex  0.442327  0.000000  0.501760 UV  1.000499  0.998960
+                Vertex  0.404451  0.000000  0.403089 UV  1.088488  0.998961
+                Vertex  0.340419  0.000000  0.236279 UV  1.237237  0.998961
+                Vertex  0.267989  0.000000  0.047593 UV  1.405494  0.998961
+                Vertex  0.195559  0.000000 -0.141094 UV  1.573751  0.998961
+                Vertex  0.124179  0.000000 -0.327045 UV  1.739569  0.998961
+                Vertex  0.053848  0.000000 -0.510263 UV  1.902950  0.998961
+                Vertex  0.012286  0.000000 -0.618536 UV  1.999500  0.998961
+                Vertex  0.053848  1.200000 -0.510263 UV  1.902950  0.001039
+                Vertex  0.012286  1.200000 -0.618536 UV  1.999501  0.001039
+                Vertex  0.124179  1.200000 -0.327045 UV  1.739570  0.001039
+                Vertex  0.195559  1.200000 -0.141094 UV  1.573751  0.001039
+                Vertex  0.267989  1.200000  0.047593 UV  1.405494  0.001039
+                Vertex  0.340419  1.200000  0.236279 UV  1.237237  0.001039
+                Vertex  0.404451  1.200000  0.403089 UV  1.088488  0.001039
+                Vertex  0.442327  1.200000  0.501760 UV  1.000500  0.001039
+                Vertex -0.267788  1.200000 -0.511026 UV  1.000499  0.998960
+                Vertex -0.230425  1.200000 -0.413691 UV  1.087296  0.998960
+                Vertex -0.155895  1.200000 -0.219535 UV  1.260430  0.998960
+                Vertex -0.084515  1.200000 -0.033583 UV  1.426249  0.998960
+                Vertex -0.013135  1.200000  0.152368 UV  1.592067  0.998960
+                Vertex  0.061394  1.200000  0.346524 UV  1.765202  0.998960
+                Vertex  0.123327  1.200000  0.507865 UV  1.909074  0.998961
+                Vertex  0.162253  1.200000  0.609271 UV  1.999500  0.998961
+                Vertex -0.267788  2.400000 -0.511026 UV  1.000500  0.001039
+                Vertex -0.230425  2.400000 -0.413691 UV  1.087296  0.001039
+                Vertex -0.155895  2.400000 -0.219535 UV  1.260430  0.001039
+                Vertex -0.084515  2.400000 -0.033583 UV  1.426249  0.001040
+                Vertex -0.013135  2.400000  0.152368 UV  1.592068  0.001040
+                Vertex  0.061394  2.400000  0.346524 UV  1.765202  0.001040
+                Vertex  0.123327  2.400000  0.507865 UV  1.909074  0.001040
+                Vertex  0.162253  2.400000  0.609271 UV  1.999501  0.001040
+                Vertex  0.053848  2.400000 -0.510263 UV  1.999500  0.198059
+                Vertex  0.012286  2.400000 -0.618536 UV  1.999501  0.006204
+                Vertex -0.267788  2.400000 -0.511026 UV  1.000500  0.006203
+                Vertex -0.230425  2.400000 -0.413691 UV  1.000500  0.178677
+                Vertex -0.155895  2.400000 -0.219535 UV  1.000500  0.522711
+                Vertex  0.124179  2.400000 -0.327045 UV  1.999500  0.522712
+                Vertex -0.052768  2.400000  0.049122 UV  1.000499  0.998759
+                Vertex  0.227307  2.400000 -0.058388 UV  1.999500  0.998759
+                Vertex  0.053848  1.200000 -0.510263 UV  1.902950  0.998961
+                Vertex  0.012286  1.200000 -0.618536 UV  1.999500  0.998961
+                Vertex  0.124179  1.200000 -0.327045 UV  1.739569  0.998961
+                Vertex  0.195559  1.200000 -0.141094 UV  1.573751  0.998960
+                Vertex  0.267989  1.200000  0.047593 UV  1.405494  0.998960
+                Vertex  0.340419  1.200000  0.236279 UV  1.237237  0.998960
+                Vertex  0.404451  1.200000  0.403089 UV  1.088488  0.998960
+                Vertex  0.442327  1.200000  0.501760 UV  1.000499  0.998960
+                Vertex  0.053848  2.400000 -0.510263 UV  1.902950  0.001039
+                Vertex  0.012286  2.400000 -0.618536 UV  1.999501  0.001040
+                Vertex  0.124179  2.400000 -0.327045 UV  1.739570  0.001039
+                Vertex  0.195559  2.400000 -0.141094 UV  1.573751  0.001039
+                Vertex  0.267989  2.400000  0.047593 UV  1.405494  0.001039
+                Vertex  0.340419  2.400000  0.236279 UV  1.237237  0.001039
+                Vertex  0.404451  2.400000  0.403089 UV  1.088488  0.001039
+                Vertex  0.442327  2.400000  0.501760 UV  1.000500  0.001039
+                Vertex -0.267788  0.000000 -0.511026 UV  1.000000  0.998960
+                Vertex -0.230425  0.000000 -0.413691 UV  1.086883  0.998960
+                Vertex -0.155895  0.000000 -0.219535 UV  1.260191  0.998960
+                Vertex -0.084515  0.000000 -0.033583 UV  1.426175  0.998960
+                Vertex -0.013135  0.000000  0.152368 UV  1.592160  0.998960
+                Vertex  0.061394  0.000000  0.346524 UV  1.765467  0.998961
+                Vertex  0.123327  0.000000  0.507865 UV  1.909483  0.998961
+                Vertex  0.162253  0.000000  0.609271 UV  2.000000  0.998961
+                Vertex -0.267788  1.200000 -0.511026 UV  1.000000  0.001039
+                Vertex -0.230425  1.200000 -0.413691 UV  1.086884  0.001039
+                Vertex -0.155895  1.200000 -0.219535 UV  1.260191  0.001039
+                Vertex -0.084515  1.200000 -0.033583 UV  1.426175  0.001040
+                Vertex -0.013135  1.200000  0.152368 UV  1.592160  0.001040
+                Vertex  0.061394  1.200000  0.346524 UV  1.765467  0.001040
+                Vertex  0.123327  1.200000  0.507865 UV  1.909483  0.001040
+                Vertex  0.162253  1.200000  0.609271 UV  2.000000  0.001040
+                Vertex -0.052768  2.400000  0.049122 UV  1.000500  0.001240
+                Vertex  0.227307  2.400000 -0.058388 UV  1.999501  0.001240
+                Vertex -0.013135  2.400000  0.152368 UV  1.000500  0.184188
+                Vertex  0.267989  2.400000  0.047593 UV  1.999500  0.189034
+                Vertex  0.061394  2.400000  0.346524 UV  1.000500  0.528222
+                Vertex  0.340419  2.400000  0.236279 UV  1.999500  0.523377
+                Vertex  0.404451  2.400000  0.403089 UV  1.999500  0.818955
+                Vertex  0.123327  2.400000  0.507865 UV  1.000500  0.814110
+                Vertex  0.162253  2.400000  0.609271 UV  1.000499  0.993796
+                Vertex  0.442327  2.400000  0.501760 UV  1.999500  0.993797
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture hpdr_02b.cmp
+                
+                Triangle 7 8 10
+                Triangle 10 9 7
+                Triangle 6 7 9
+                Triangle 9 11 6
+                Triangle 5 6 11
+                Triangle 11 12 5
+                Triangle 4 5 12
+                Triangle 12 13 4
+                Triangle 3 4 13
+                Triangle 13 14 3
+                Triangle 2 3 14
+                Triangle 14 15 2
+                Triangle 1 2 15
+                Triangle 15 16 1
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture hpdr_02a.cmp
+                
+                Triangle 17 18 26
+                Triangle 26 25 17
+                Triangle 18 19 27
+                Triangle 27 26 18
+                Triangle 19 20 28
+                Triangle 28 27 19
+                Triangle 20 21 29
+                Triangle 29 28 20
+                Triangle 21 22 30
+                Triangle 30 29 21
+                Triangle 22 23 31
+                Triangle 31 30 22
+                Triangle 23 24 32
+                Triangle 32 31 23
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture hpdr_02c.cmp
+                
+                Triangle 35 36 40
+                Triangle 33 34 35
+                Triangle 38 33 35
+                Triangle 40 38 35
+                Triangle 37 39 40
+                Triangle 36 37 40
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture hpdr_02a.cmp
+                
+                Triangle 41 42 50
+                Triangle 50 49 41
+                Triangle 43 41 49
+                Triangle 49 51 43
+                Triangle 44 43 51
+                Triangle 51 52 44
+                Triangle 45 44 52
+                Triangle 52 53 45
+                Triangle 46 45 53
+                Triangle 53 54 46
+                Triangle 47 46 54
+                Triangle 54 55 47
+                Triangle 48 47 55
+                Triangle 55 56 48
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture hpdr_02b.cmp
+                
+                Triangle 57 58 66
+                Triangle 66 65 57
+                Triangle 58 59 67
+                Triangle 67 66 58
+                Triangle 59 60 68
+                Triangle 68 67 59
+                Triangle 60 61 69
+                Triangle 69 68 60
+                Triangle 61 62 70
+                Triangle 70 69 61
+                Triangle 62 63 71
+                Triangle 71 70 62
+                Triangle 63 64 72
+                Triangle 72 71 63
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture hpdr_02d.cmp
+                
+                Triangle 76 74 73
+                Triangle 80 81 82
+                Triangle 78 76 73
+                Triangle 77 80 82
+                Triangle 79 78 73
+                Triangle 75 77 82
+                Triangle 82 79 73
+                Triangle 73 75 82
+                
+            ClumpEnd
+        TransformEnd
+    ClumpEnd
+ModelEnd

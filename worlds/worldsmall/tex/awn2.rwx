@@ -1,0 +1,110 @@
+# Output from 3DSMax RenderWare File Export plug-in V1.0
+ModelBegin
+    ClumpBegin
+        # outer
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 1
+                Hints NULL
+                
+                
+            ClumpEnd
+        TransformEnd
+        # Inside
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 2
+                Hints NULL
+                
+                
+            ClumpEnd
+        TransformEnd
+        # Inside01top01
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 3
+                Hints NULL
+                Vertex -0.002020  0.500000  2.499099 UV  0.002498  0.999499
+                Vertex  17.497980  0.500000  2.499099 UV  4.997502  0.999500
+                Vertex -0.002020  1.400000 -0.000901 UV  0.002498  0.000500
+                Vertex  17.497980  1.400000 -0.000901 UV  4.997502  0.000501
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture awn1128.cmp
+                
+                Triangle 2 1 4
+                Triangle 3 4 1
+                
+            ClumpEnd
+        TransformEnd
+        # Inside01front01
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 4
+                Hints NULL
+                Vertex -0.002023  0.000000  2.499099 UV  0.002497  0.999494
+                Vertex  17.497976  0.000000  2.499099 UV  4.997501  0.999501
+                Vertex -0.002020  0.500000  2.499099 UV  0.002498  0.000499
+                Vertex  17.497980  0.500000  2.499099 UV  4.997502  0.000506
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture awn1128.cmp
+                
+                Triangle 2 1 4
+                Triangle 3 4 1
+                
+            ClumpEnd
+        TransformEnd
+        # outer01top01
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 5
+                Hints NULL
+                Vertex -0.002020  0.500000  2.499099 UV  0.002498  0.999499
+                Vertex  17.497980  0.500000  2.499099 UV  4.997502  0.999500
+                Vertex -0.002020  1.400000 -0.000901 UV  0.002498  0.000500
+                Vertex  17.497980  1.400000 -0.000901 UV  4.997502  0.000501
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture awn1128.cmp
+                
+                Triangle 1 2 4
+                Triangle 4 3 1
+                
+            ClumpEnd
+        TransformEnd
+    ClumpEnd
+ModelEnd

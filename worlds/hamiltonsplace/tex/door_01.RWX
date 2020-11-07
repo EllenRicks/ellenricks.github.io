@@ -1,0 +1,325 @@
+# Output from 3DSMax RenderWare File Export plug-in V1.0
+ModelBegin
+    ClumpBegin
+        # win
+        
+        TransformBegin
+            Transform -1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000 -1.000000  0.000000  0.500000  0.000000 -2.000000  1.000000
+            
+            ClumpBegin
+                Tag 1
+                Hints NULL
+                
+                
+            ClumpEnd
+        TransformEnd
+        # Object02
+        
+        TransformBegin
+            Transform -1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000 -1.000000  0.000000  0.500000  0.000000 -2.000000  1.000000
+            
+            ClumpBegin
+                Tag 2
+                Hints NULL
+                Vertex  0.499999  0.000000 -2.000001 UV  0.0005 3.998002
+                Vertex  0.500000  5.000000 -2.000001 UV  0.0005 0.001998
+                Vertex -0.200000  0.000000 -1.990001 UV  0.995 3.998002
+                Vertex -0.200000  5.000000 -1.990001 UV  0.995 0.001998
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture win_01c.BMP
+                
+                Triangle 2 1 3
+                Triangle 3 4 2
+                
+            ClumpEnd
+        TransformEnd
+        # Object03
+        
+        TransformBegin
+            Transform -1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000 -1.000000  0.000000  0.500000  0.000000 -2.000000  1.000000
+            
+            ClumpBegin
+                Tag 3
+                Hints NULL
+                Vertex -3.499998 -0.000000 -2.000001 UV  0.000503 3.998002
+                Vertex -3.500000  5.000000 -2.000001 UV  0.0005 0.001998
+                Vertex -2.800000  0.000000 -1.990001 UV  0.995 3.998002
+                Vertex -2.800000  5.000000 -1.990001 UV  0.995 0.001998
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture win_01c.BMP
+                
+                Triangle 1 2 4
+                Triangle 4 3 1
+                
+            ClumpEnd
+        TransformEnd
+        # Object04
+        
+        TransformBegin
+            Transform -1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000 -1.000000  0.000000  0.500000  0.000000 -2.000000  1.000000
+            
+            ClumpBegin
+                Tag 4
+                Hints NULL
+                Vertex -0.650380  6.000000 -2.000000 UV  0.000499 0.000999
+                Vertex -2.371279  6.000000 -2.000000 UV  0.0005 1.998816
+                Vertex -0.650380  5.370000 -1.990001 UV  0.995 0.001184
+                Vertex -2.371280  5.370000 -1.990001 UV  0.995 1.999001
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture win_01c.BMP
+                
+                Triangle 2 1 3
+                Triangle 3 4 2
+                
+            ClumpEnd
+        TransformEnd
+        # inner
+        
+        TransformBegin
+            Transform -1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000 -1.000000  0.000000  0.500000  0.000000 -2.000000  1.000000
+            
+            ClumpBegin
+                Tag 5
+                Hints NULL
+                Vertex -0.200000  0.000000 -1.990001 UV  0.995 4.01405
+                Vertex -0.200000  5.000000 -1.990001 UV  0.995 0.001998
+                Vertex -0.199999  0.000000 -1.000001 UV  0.000501 4.01405
+                Vertex -0.199999  5.000000 -1.000000 UV  0.000499 0.001998
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture win_01d.BMP
+                
+                Triangle 2 1 3
+                Triangle 3 4 2
+                
+            ClumpEnd
+        TransformEnd
+        # inner
+        
+        TransformBegin
+            Transform -1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000 -1.000000  0.000000  0.500000  0.000000 -2.000000  1.000000
+            
+            ClumpBegin
+                Tag 6
+                Hints NULL
+                Vertex -2.800000  0.000000 -1.990001 UV  0.995 4.01405
+                Vertex -2.800000  5.000000 -1.990001 UV  0.995 0.001998
+                Vertex -2.800000  0.000000 -1.000001 UV  0.0005 4.01405
+                Vertex -2.799999  5.000000 -1.000000 UV  0.0005 0.001998
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture win_01d.BMP
+                
+                Triangle 1 2 4
+                Triangle 4 3 1
+                
+            ClumpEnd
+        TransformEnd
+        # floor01
+        
+        TransformBegin
+            Transform -1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000 -1.000000  0.000000  0.500000  0.000000 -2.000000  1.000000
+            
+            ClumpBegin
+                Tag 7
+                Hints NULL
+                Vertex -2.800000  0.000000 -1.990001 UV  0.001498 0.0005
+                Vertex -0.200000  0.000000 -1.990001 UV  2.9985 0.0005
+                Vertex -2.800000  0.000000 -1.000001 UV  0.001499 0.995
+                Vertex -0.199999  0.000000 -1.000001 UV  2.998502 0.995
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture win_01e.BMP
+                
+                Triangle 2 1 3
+                Triangle 3 4 2
+                
+            ClumpEnd
+        TransformEnd
+        # arch01
+        
+        TransformBegin
+            Transform -1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000 -1.000000  0.000000  0.500000  0.000000 -2.000000  1.000000
+            
+            ClumpBegin
+                Tag 8
+                Hints NULL
+                Vertex -2.800000  5.000000 -1.990001 UV  0.001498 0.0005
+                Vertex -2.788951  5.174007 -1.990001 UV  0.014235 0.0005
+                Vertex -2.731727  5.262118 -1.990001 UV  0.080196 0.0005
+                Vertex -0.200000  5.000000 -1.990001 UV  2.9985 0.0005
+                Vertex -0.232703  5.183595 -1.990001 UV  2.960804 0.0005
+                Vertex -0.289926  5.262118 -1.990001 UV  2.894844 0.0005
+                Vertex -0.402066  5.326198 -1.990001 UV  2.76558 0.0005
+                Vertex -0.650380  5.370000 -1.990001 UV  2.479351 0.0005
+                Vertex -2.371280  5.370000 -1.990001 UV  0.495682 0.0005
+                Vertex -2.619587  5.326198 -1.990001 UV  0.209459 0.0005
+                Vertex -2.799999  5.000000 -1.000000 UV  0.001499 0.995
+                Vertex -2.788950  5.174007 -1.000000 UV  0.014236 0.995
+                Vertex -2.731727  5.262118 -1.000000 UV  0.080197 0.995
+                Vertex -0.199999  5.000000 -1.000000 UV  2.998501 0.995
+                Vertex -0.232702  5.183595 -1.000000 UV  2.960805 0.995
+                Vertex -0.289925  5.262118 -1.000000 UV  2.894844 0.995
+                Vertex -0.402065  5.326198 -1.000000 UV  2.765581 0.995
+                Vertex -0.650379  5.370000 -1.000000 UV  2.479352 0.995
+                Vertex -2.371279  5.370000 -1.000000 UV  0.495682 0.995
+                Vertex -2.619587  5.326198 -1.000001 UV  0.20946 0.995
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture win_01f.BMP
+                
+                Triangle 1 2 12
+                Triangle 12 11 1
+                Triangle 2 3 13
+                Triangle 13 12 2
+                Triangle 5 4 14
+                Triangle 14 15 5
+                Triangle 6 5 15
+                Triangle 15 16 6
+                Triangle 7 6 16
+                Triangle 16 17 7
+                Triangle 8 7 17
+                Triangle 17 18 8
+                Triangle 9 8 18
+                Triangle 18 19 9
+                Triangle 3 10 20
+                Triangle 20 13 3
+                Triangle 10 9 19
+                Triangle 19 20 10
+                
+            ClumpEnd
+        TransformEnd
+        # corner01
+        
+        TransformBegin
+            Transform -1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000 -1.000000  0.000000  0.500000  0.000000 -2.000000  1.000000
+            
+            ClumpBegin
+                Tag 9
+                Hints NULL
+                Vertex  0.500000  5.000000 -2.000001 UV  0.0005 0.995
+                Vertex  0.500001  5.761970 -2.000001 UV  0.0005 0.238313
+                Vertex  0.500001  6.000000 -2.000001 UV  0.0005 0.000528
+                Vertex -0.240000  6.000000 -2.000000 UV  0.643055 0.00051
+                Vertex -0.650380  6.000000 -2.000000 UV  0.995 0.000499
+                Vertex -0.200000  5.000000 -1.990001 UV  0.608427 0.995
+                Vertex -0.232703  5.183595 -1.990001 UV  0.636823 0.816095
+                Vertex -0.289926  5.262118 -1.990001 UV  0.686512 0.737651
+                Vertex -0.402066  5.326198 -1.990001 UV  0.783885 0.673634
+                Vertex -0.650380  6.000000 -2.000000 UV  0.995 0.000499
+                Vertex -0.402066  5.326198 -1.990001 UV  0.783885 0.673634
+                Vertex -0.650380  5.370000 -1.990001 UV  0.995 0.629871
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture win_01b.BMP
+                
+                Triangle 2 1 6
+                Triangle 6 7 2
+                Triangle 3 2 7
+                Triangle 4 3 8
+                Triangle 5 4 9
+                Triangle 7 8 3
+                Triangle 8 9 4
+                Triangle 11 12 10
+                
+            ClumpEnd
+        TransformEnd
+        # corner02
+        
+        TransformBegin
+            Transform -1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000 -1.000000  0.000000  0.500000  0.000000 -2.000000  1.000000
+            
+            ClumpBegin
+                Tag 10
+                Hints NULL
+                Vertex -2.759999  6.000000 -2.000001 UV  0.655373 0.0005
+                Vertex -3.499995  6.000000 -2.000001 UV  0.000503 0.000499
+                Vertex -3.499996  5.750000 -2.000001 UV  0.000503 0.250249
+                Vertex -2.788951  5.174007 -1.990001 UV  0.629877 0.825666
+                Vertex -2.731727  5.262118 -1.990001 UV  0.680517 0.737644
+                Vertex -2.371280  5.370000 -1.990001 UV  0.995 0.62987
+                Vertex -2.619587  5.326198 -1.990001 UV  0.779757 0.673628
+                Vertex -2.371279  6.000000 -2.000000 UV  0.995 0.0005
+                Vertex -2.759999  6.000000 -2.000001 UV  0.655373 0.0005
+                Vertex -3.499995  6.000000 -2.000001 UV  0.000503 0.000499
+                Vertex -3.499996  5.750000 -2.000001 UV  0.000503 0.250249
+                Vertex -3.500000  5.000000 -2.000001 UV  0.000499 0.995
+                Vertex -2.800000  5.000000 -1.990001 UV  0.620098 0.995
+                Vertex -2.788951  5.174007 -1.990001 UV  0.629877 0.825666
+                Vertex -2.731727  5.262118 -1.990001 UV  0.680517 0.737644
+                Vertex -2.371280  5.370000 -1.990001 UV  0.995 0.62987
+                Vertex -2.619587  5.326198 -1.990001 UV  0.779757 0.673628
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture win_01b.BMP
+                
+                Triangle 5 4 3
+                Triangle 7 5 2
+                Triangle 6 7 1
+                Triangle 12 11 14
+                Triangle 14 13 12
+                Triangle 11 10 15
+                Triangle 10 9 17
+                Triangle 9 8 16
+                
+            ClumpEnd
+        TransformEnd
+    ClumpEnd
+ModelEnd

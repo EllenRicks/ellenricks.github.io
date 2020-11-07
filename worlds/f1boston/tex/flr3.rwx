@@ -1,0 +1,52 @@
+# Output from 3DSMax RenderWare File Export plug-in V1.0
+ModelBegin
+    # Line02
+    
+    TransformBegin
+        Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+        
+        ClumpBegin
+            Tag 1
+            Hints NULL
+            Vertex  5.411963  0.000000 -5.412682 UV  1.172744  1.914003
+            Vertex  13.065632  0.000000 -5.412679 UV  2.828429  1.914004
+            Vertex  18.472170  0.000000 -0.000720 UV  3.998001  3.998002
+            Vertex  18.472170  0.000000 -10.377991 UV  3.998002  0.001999
+            Vertex  0.000001  0.000000 -10.377991 UV  0.001999  0.001998
+            Vertex  0.000001  0.000000 -0.000720 UV  0.001998  3.998001
+            Vertex  5.411963  0.000000 -5.412682 UV  1.172744  1.914003
+            Vertex  13.065632  0.000000 -5.412679 UV  2.828429  1.914004
+            Vertex  18.472170  0.000000 -0.000720 UV  3.998001  3.998002
+            Vertex  18.472170  0.000000 -10.377991 UV  3.998002  0.001999
+            Vertex  0.000001  0.000000 -10.377991 UV  0.001999  0.001998
+            Vertex  0.000001  0.000000 -0.000720 UV  0.001998  3.998001
+            
+            GeometrySampling Solid
+            LightSampling Vertex
+            Ambient 0.179083  0.1  0.1
+            Color 0.537255 0.196078 0.196078
+            Diffuse 0.537255 0.196078 0.196078
+            Specular  0.9  0.9  0.9
+            TextureModes Foreshorten
+            Texture carpet2.cmp
+            
+            Triangle 1 2 8
+            Triangle 1 8 7
+            Triangle 2 3 9
+            Triangle 2 9 8
+            Triangle 3 4 10
+            Triangle 3 10 9
+            Triangle 4 5 11
+            Triangle 4 11 10
+            Triangle 5 6 12
+            Triangle 5 12 11
+            Triangle 6 1 7
+            Triangle 6 7 12
+            Triangle 8 9 10
+            Triangle 8 10 11
+            Triangle 7 8 11
+            Triangle 11 12 7
+            
+        ClumpEnd
+    TransformEnd
+ModelEnd

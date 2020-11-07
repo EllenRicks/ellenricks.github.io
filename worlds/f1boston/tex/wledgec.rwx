@@ -1,0 +1,97 @@
+# Output from 3DSMax RenderWare File Export plug-in V1.0
+ModelBegin
+    ClumpBegin
+        # Box01
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 1
+                Hints NULL
+                
+                
+            ClumpEnd
+        TransformEnd
+        # face01
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 2
+                Hints NULL
+                Vertex -0.000000  0.000000 -1.249337 UV  0.000999  2.998501
+                Vertex -0.062500  0.150000 -1.249337 UV  0.000999  2.099400
+                Vertex -0.000000  0.150000 -1.249337 UV  0.000999  2.099400
+                Vertex -0.131250  0.320000 -1.249337 UV  0.000999  1.080419
+                Vertex -0.062500  0.320000 -1.249337 UV  0.000999  1.080419
+                Vertex -0.131250  0.500000 -1.249337 UV  0.000999  0.001498
+                Vertex -0.000000  0.000000 -0.002608 UV  1.999001  2.998502
+                Vertex -0.000000  0.050000 -0.002608 UV  1.999001  2.698801
+                Vertex -0.000000  0.150000 -0.002608 UV  1.999001  2.099401
+                Vertex -0.062500  0.150000 -0.002608 UV  1.999001  2.099401
+                Vertex -0.062500  0.250000 -0.002608 UV  1.999001  1.500000
+                Vertex -0.062500  0.320000 -0.002608 UV  1.999001  1.080420
+                Vertex -0.131250  0.320000 -0.002608 UV  1.999001  1.080420
+                Vertex -0.131250  0.350000 -0.002608 UV  1.999001  0.900600
+                Vertex -0.131250  0.450000 -0.002608 UV  1.999001  0.301199
+                Vertex -0.131250  0.500000 -0.002608 UV  1.999001  0.001499
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture wl4a.cmp
+                
+                Triangle 1 7 3
+                Triangle 2 10 5
+                Triangle 4 13 6
+                Triangle 9 3 8
+                Triangle 12 5 11
+                Triangle 15 6 14
+                Triangle 16 6 15
+                Triangle 8 3 7
+                Triangle 11 5 10
+                Triangle 14 6 13
+                
+            ClumpEnd
+        TransformEnd
+        # bottom01
+        
+        TransformBegin
+            Transform  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000  0.000000  0.000000  0.000000  0.000000  1.000000
+            
+            ClumpBegin
+                Tag 3
+                Hints NULL
+                Vertex -0.062500  0.150000 -1.249337 UV  0.000999  0.523784
+                Vertex -0.000000  0.150000 -1.249337 UV  0.000999  0.999498
+                Vertex -0.131250  0.320000 -1.249337 UV  0.000999  0.000499
+                Vertex -0.062500  0.320000 -1.249337 UV  0.000999  0.523784
+                Vertex -0.000000  0.150000 -0.002608 UV  1.999001  0.999501
+                Vertex -0.062500  0.150000 -0.002608 UV  1.999001  0.523787
+                Vertex -0.062500  0.320000 -0.002608 UV  1.999001  0.523787
+                Vertex -0.131250  0.320000 -0.002608 UV  1.999001  0.000502
+                
+                GeometrySampling Solid
+                LightSampling Vertex
+                Ambient 0.179083  0.1  0.1
+                Color 0.537255 0.196078 0.196078
+                Diffuse 0.537255 0.196078 0.196078
+                Specular  0.9  0.9  0.9
+                TextureModes Foreshorten
+                Texture wl5a.cmp
+                
+                Triangle 2 5 1
+                Triangle 4 7 3
+                Triangle 6 1 5
+                Triangle 8 3 7
+                
+            ClumpEnd
+        TransformEnd
+    ClumpEnd
+ModelEnd
